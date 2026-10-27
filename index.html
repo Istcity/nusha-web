@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nüsha - Resmî Gazete Yapay Zekâ Analiz ve Takip Platformu</title>
+  <meta name="description" content="Nüsha ile Resmî Gazete kararlarını yapay zekâ ile anında özetleyin, sektörel kelimelerinizi takip edin ve hukuki etki analizlerine ulaşın.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@0,600;0,700;1,600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #090A0F;
+      --card-bg: rgba(255, 255, 255, 0.04);
+      --card-border: rgba(255, 255, 255, 0.08);
+      --accent-gold: #E5C378;
+      --accent-yellow: #FCE901;
+      --text-main: #FFFFFF;
+      --text-muted: #9CA3AF;
+      --font-sans: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+      --font-serif: 'Playfair Display', Georgia, serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg);
+      color: var(--text-main);
+      font-family: var(--font-sans);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* Navbar */
+    header {
+      padding: 24px 0;
+      border-bottom: 1px solid var(--card-border);
+      backdrop-filter: blur(12px);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      background: rgba(9, 10, 15, 0.85);
+    }
+
+    .nav-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-family: var(--font-serif);
+      font-size: 26px;
+      font-weight: 700;
+      color: #fff;
+      text-decoration: none;
+      letter-spacing: -0.5px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .logo-badge {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 700;
+      text-transform: uppercase;
+      background: var(--accent-gold);
+      color: #000;
+      padding: 2px 8px;
+      border-radius: 4px;
+      letter-spacing: 0.5px;
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 24px;
+      align-items: center;
+    }
+
+    .nav-links a {
+      color: var(--text-muted);
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 500;
+      transition: color 0.2s ease;
+    }
+
+    .nav-links a:hover, .nav-links a.active {
+      color: #fff;
+    }
+
+    .nav-cta {
+      background: var(--accent-gold);
+      color: #090A0F !important;
+      padding: 8px 16px;
+      border-radius: 20px;
+      font-weight: 600 !important;
+    }
+
+    /* Hero Section */
+    .hero {
+      padding: 100px 0 60px;
+      text-align: center;
+      position: relative;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(229, 195, 120, 0.1);
+      border: 1px solid rgba(229, 195, 120, 0.3);
+      color: var(--accent-gold);
+      padding: 6px 16px;
+      border-radius: 30px;
+      font-size: 13px;
+      font-weight: 600;
+      margin-bottom: 28px;
+    }
+
+    .hero h1 {
+      font-family: var(--font-serif);
+      font-size: 56px;
+      font-weight: 700;
+      line-height: 1.15;
+      margin-bottom: 24px;
+      letter-spacing: -1px;
+      background: linear-gradient(180deg, #FFFFFF 0%, #D1D5DB 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .hero p {
+      font-size: 19px;
+      color: var(--text-muted);
+      max-width: 680px;
+      margin: 0 auto 36px;
+    }
+
+    .cta-group {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      margin-bottom: 60px;
+    }
+
+    .btn-primary {
+      background: #FFFFFF;
+      color: #090A0F;
+      padding: 14px 28px;
+      border-radius: 30px;
+      font-weight: 700;
+      text-decoration: none;
+      font-size: 15px;
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      transition: transform 0.2s, background 0.2s;
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      background: #F3F4F6;
+    }
+
+    .btn-secondary {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      color: #fff;
+      padding: 14px 28px;
+      border-radius: 30px;
+      font-weight: 600;
+      text-decoration: none;
+      font-size: 15px;
+      transition: border-color 0.2s;
+    }
+
+    .btn-secondary:hover {
+      border-color: rgba(255, 255, 255, 0.25);
+    }
+
+    /* Features Grid */
+    .features {
+      padding: 80px 0;
+    }
+
+    .section-title {
+      text-align: center;
+      margin-bottom: 50px;
+    }
+
+    .section-title h2 {
+      font-family: var(--font-serif);
+      font-size: 36px;
+      margin-bottom: 12px;
+    }
+
+    .section-title p {
+      color: var(--text-muted);
+      font-size: 16px;
+    }
+
+    .grid-3 {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+    }
+
+    .feature-card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      padding: 32px;
+      border-radius: 20px;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+
+    .feature-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(229, 195, 120, 0.4);
+    }
+
+    .feature-icon {
+      width: 48px;
+      height: 48px;
+      border-radius: 12px;
+      background: rgba(229, 195, 120, 0.15);
+      color: var(--accent-gold);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      margin-bottom: 20px;
+    }
+
+    .feature-card h3 {
+      font-size: 20px;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+
+    .feature-card p {
+      color: var(--text-muted);
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    /* Footer */
+    footer {
+      border-top: 1px solid var(--card-border);
+      padding: 48px 0;
+      margin-top: 80px;
+      font-size: 14px;
+      color: var(--text-muted);
+    }
+
+    .footer-inner {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 20px;
+    }
+
+    .footer-links {
+      display: flex;
+      gap: 24px;
+    }
+
+    .footer-links a {
+      color: var(--text-muted);
+      text-decoration: none;
+    }
+
+    .footer-links a:hover {
+      color: #fff;
+    }
+
+    @media (max-width: 768px) {
+      .hero h1 { font-size: 38px; }
+      .hero p { font-size: 16px; }
+      .cta-group { flex-direction: column; align-items: center; }
+      .footer-inner { flex-direction: column; text-align: center; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="container nav-inner">
+      <a href="index.html" class="logo">
+        Nüsha <span class="logo-badge">Resmî Gazete</span>
+      </a>
+      <nav class="nav-links">
+        <a href="index.html" class="active">Ana Sayfa</a>
+        <a href="support.html">Destek & İletişim</a>
+        <a href="privacy.html">Gizlilik Politikası</a>
+        <a href="https://apps.apple.com/app/id6825063460" class="nav-cta">App Store'da İndir</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <div class="hero-badge">⚡ Resmî Gazete Takip & Yapay Zekâ Analizi</div>
+        <h1>Mevzuatı Saatlerce Değil,<br>Saniyeler İçinde Anlayın.</h1>
+        <p>
+          Nüsha; Türkiye Cumhuriyeti Resmî Gazetesi'ni her gece yayımlandığı anda tarar, yapay zekâ ile yönetici özetlerini çıkarır, hukuki etki analizlerini sunar ve ilgilendiğiniz kelimeleri anlık bildirimle haber verir.
+        </p>
+        <div class="cta-group">
+          <a href="https://apps.apple.com/app/id6825063460" class="btn-primary">
+             App Store'dan Ücretsiz İndirin
+          </a>
+          <a href="support.html" class="btn-secondary">
+            Destek ve İletişim
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="features">
+      <div class="container">
+        <div class="section-title">
+          <h2>Profesyoneller İçin Tasarlandı</h2>
+          <p>Hukukçular, mali müşavirler, yöneticiler ve yatırımcılar için eksiksiz mevzuat istihbaratı.</p>
+        </div>
+
+        <div class="grid-3">
+          <div class="feature-card">
+            <div class="feature-icon">✦</div>
+            <h3>Yapay Zekâ Yönetici Özeti</h3>
+            <p>Sayfalarca süren kanun, kararname ve tebliğlerin özünü, kimleri nasıl etkilediğini sade ve anlaşılır 3 maddelik yönetici özetleriyle okuyun.</p>
+          </div>
+
+          <div class="feature-card">
+            <div class="feature-icon">⚖️</div>
+            <h3>Hukuki & Yürürlük Etki Analizi</h3>
+            <p>Düzenlemenin yürürlük tarihini, değiştirdiği veya yürürlükten kaldırdığı kanun maddelerini ve sektörünüze doğrudan etkisini anında görün.</p>
+          </div>
+
+          <div class="feature-card">
+            <div class="feature-icon">🔔</div>
+            <h3>Akıllı Kelime Takibi</h3>
+            <p>Şirket unvanınız, sektörünüz veya ilgilendiğiniz anahtar kelimeleri (örn: "Güneş Enerjisi", "Vergi", "SGK") kaydedin; Resmî Gazete'de geçtiğinde anında bildirim alın.</p>
+          </div>
+
+          <div class="feature-card">
+            <div class="feature-icon">🏛️</div>
+            <h3>Tüm Resmî Gazete Kategorileri</h3>
+            <p>Yasama, Yürütme ve İdare, Yargı, İlanlar ve Mükerrer sayılar dahil tüm Resmî Gazete bölümlerini akıcı ve modern kart arayüzüyle inceleyin.</p>
+          </div>
+
+          <div class="feature-card">
+            <div class="feature-icon">📅</div>
+            <h3>30 Günlük Eksiksiz Arşiv</h3>
+            <p>Geçmiş 30 günün tüm Resmî Gazete sayılarına tek dokunuşla ulaşın, tarih filtreleriyle geçmiş düzenlemeleri rahatça tarayın.</p>
+          </div>
+
+          <div class="feature-card">
+            <div class="feature-icon">🛡️</div>
+            <h3>Gizlilik Odaklı & Yerli Altyapı</h3>
+            <p>Arama geçmişiniz ve anahtar kelimeleriniz gizli tutulur. Kişisel verileriniz üçüncü taraflarla paylaşılmaz ve reklam takibi yapılmaz.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <div>
+        <p>&copy; 2026 Nüsha (com.gazeteradar.app). Tüm hakları saklıdır.</p>
+        <p style="font-size: 12px; margin-top: 4px;">Resmî Gazete verileri T.C. Cumhurbaşkanlığı İdari İşler Başkanlığı resmigazete.gov.tr açık kaynaklarından derlenmektedir.</p>
+      </div>
+      <div class="footer-links">
+        <a href="index.html">Ana Sayfa</a>
+        <a href="support.html">Destek</a>
+        <a href="privacy.html">Gizlilik Politikası</a>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>
