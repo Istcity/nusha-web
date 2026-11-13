@@ -1,5 +1,5 @@
 {
-  "id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+  "id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
   "date": "2026-11-13",
   "number": 33429,
   "is_duplicate": false,
@@ -7,8 +7,8 @@
   "item_count": 8,
   "items": [
     {
-      "id": "1e82a49c-3053-4493-aff8-f5ba34ef70d5",
-      "issue_id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+      "id": "391b0acf-1d9a-4de1-bbe7-b2743c4fdac6",
+      "issue_id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
       "type": "YÖNETMELİKLER",
       "title": "Diyaliz Merkezleri Hakkında Yönetmelik",
@@ -36,11 +36,11 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-13T12:43:24.783344"
+      "created_at": "2026-11-13T20:08:04.407247"
     },
     {
-      "id": "45992719-f5f3-4184-ab61-28ac09c1e869",
-      "issue_id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+      "id": "2f66fe6e-6495-4db1-b177-8917219740b5",
+      "issue_id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
       "type": "YÖNETMELİKLER",
       "title": "Gaziantep Üniversitesi Bilgisayar Araştırma ve Uygulama Merkezi (BİLAMER) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
@@ -62,30 +62,37 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-13T12:43:28.230594"
+      "created_at": "2026-11-13T20:08:20.099342"
     },
     {
-      "id": "dfadb2e5-4a7c-40ba-ab3d-8c1e0e4593e6",
-      "issue_id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+      "id": "3c58393e-c76e-4170-a241-afcfa7578e9f",
+      "issue_id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
       "type": "YÖNETMELİKLER",
       "title": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
       "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261113-3.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
+      "full_text": "13 Kasım 2026 CUMA\n13 Kasım 2026 CUMA\nResmî Gazete\nSayı : 33429\nYÖNETMELİK\nGaziantep Üniversitesinden:\nGAZİANTEP\r\n    ÜNİVERSİTESİ DİN, TARİH VE MEDENİYETLER UYGULAMA\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİNİN YÜRÜRLÜKTEN\nKALDIRILMASINA DAİR YÖNETMELİK\nMADDE 1-\n2/5/2011\ntarihli ve 27922 sayılı Resmî Gazete’de yayımlanan\r\n    Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma\r\n    Merkezi Yönetmeliği yürürlükten kaldırılmıştır.\nMADDE 2-\nBu Yönetmelik yayımı tarihinde yürürlüğe girer.\nMADDE 3-\nBu Yönetmelik hükümlerini Gaziantep Üniversitesi\r\n    Rektörü yürütür.",
+      "text_extraction_status": "success",
       "ai_title": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
       "ai_summary": "Gaziantep Üniversitesi Din, Tarih ve Medeniyetler Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
       "diff_summary": null,
-      "effective_date": null,
+      "effective_date": "2026-11-13",
       "importance": 3,
       "content_hash": "0365aa02a33f852f6b8cf74e74354f7d3c52c5ccc312490defb2f72cca35faef",
-      "tags": [],
+      "tags": [
+        {
+          "slug": "enerji",
+          "name_tr": "Enerji",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        }
+      ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-13T12:43:44.839793"
+      "created_at": "2026-11-13T20:08:50.476337"
     },
     {
-      "id": "3d3c99e0-1662-44bb-a7b8-106c79c2d50f",
-      "issue_id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+      "id": "acbb797b-472e-4f06-8c2b-dd093ac14261",
+      "issue_id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
       "type": "YÖNETMELİKLER",
       "title": "Gaziantep Üniversitesi Strateji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
@@ -107,74 +114,101 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-13T12:44:01.324422"
+      "created_at": "2026-11-13T20:09:20.842493"
     },
     {
-      "id": "cacc12f4-d840-4ae5-ab49-b589ace83b3b",
-      "issue_id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+      "id": "c04cf4fe-d2eb-47ac-a954-3fbd04c47deb",
+      "issue_id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
       "section": "İLÂN BÖLÜMÜ",
       "type": "GENEL",
       "title": "a - Yargı İlânları",
       "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261113-2.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
+      "full_text": "YARGI İLANLARI\n13 Kasım 2026 CUMA\nResmî Gazete\nSayı : 33429\nYARGI İLÂNLARI\nAralık Asliye Ceza\r\n  Mahkemesinden:\nAntalya 11. Asliye Ceza\r\n  Mahkemesinden:\nDiyarbakır 11. Ağır Ceza\r\n  Mahkemesinden:\nYalova 6. Asliye Ceza\r\n  Mahkemesinden:\nElbistan 1. Ağır Ceza\r\n  Mahkemesinden:",
+      "text_extraction_status": "success",
       "ai_title": "a - Yargı İlânları",
       "ai_summary": "a - Yargı İlânları yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
       "diff_summary": null,
       "effective_date": null,
       "importance": 3,
       "content_hash": "0d740944ce5399143d1cdf0df2c1bdaeb7e29c1105a1f5dffe5b180a6f96bda3",
-      "tags": [],
+      "tags": [
+        {
+          "slug": "enerji",
+          "name_tr": "Enerji",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        }
+      ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-13T12:44:16.899405"
+      "created_at": "2026-11-13T20:09:36.359381"
     },
     {
-      "id": "ac9ccd95-f71a-4759-93ee-1b0c5d2e7f24",
-      "issue_id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+      "id": "094e26d1-64fe-4dbd-974a-5672737d2512",
+      "issue_id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
       "section": "İLÂN BÖLÜMÜ",
       "type": "GENEL",
       "title": "b - Artırma, Eksiltme ve İhale İlânları",
       "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261113-3.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
+      "full_text": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI\n13 Kasım 2026 CUMA\nResmî Gazete\nSayı : 33429\nARTIRMA, EKSİLTME VE İHALE\r\n  İLÂNLARI\n2 ADET VERİ DEPOLAMA ÜNİTESİ VE 2 ADET SAN SWİTCH SATIN\r\n  ALINACAKTIR\nDevlet Malzeme Ofisi Genel Müdürlüğünden:\nTAŞINMAZ SATILACAKTIR\nBalıkesir İli Burhaniye Belediye Başkanlığından:\nALTYAPI YAPIM İŞİ İHALE EDİLECEKTİR\nMardin Midyat Organize Sanayi Bölgesi Müteşebbis Heyet Başkanlığından:\nATIKSU\nARITMA TESİSİ YAPIM\r\n  İŞİ İHALE EDİLECEKTİR\nŞanlıurfa Gıda İhtisas Organize Sanayi Bölgesi Müteşebbis Heyet\r\n  Başkanlığından:\nTAŞINMAZ SATILACAKTIR\nGaziantep Büyükşehir Belediye Başkanlığından:\nORMAN EMVALİ SATILACAKTIR\nAntalya Orman Bölge Müdürlüğü Antalya Orman İşletme Müdürlüğünden:\n54 KALEM SEYYAR SULAMA SİSTEMLERİ MALZEMESİ SATIN\r\n  ALINACAKTIR\nTarım İşletmeleri Genel Müdürlüğü Kazım Karabekir Tarım İşletmesi\r\n  Müdürlüğünden:\n17 BAŞ SAFKAN ARAP DAMIZLIK KISRAK VE 9 BAŞ SAFKAN ARAP\r\n  KOŞU TAYI SATILACAKTIR\nTarım İşletmeleri Genel Müdürlüğü Anadolu Tarım İşletmesi\r\n  Müdürlüğünden:\nBİTKİSEL ÜRETİM VE HAYVANCILIK İŞÇİLİKLERİ HİZMET ALIMI\r\n  İHALE EDİLECEKTİR\nTarım İşletmeleri Genel Müdürlüğü Dalaman Tarım İşletmesi\r\n  Müdürlüğünden:\nBUZ ÇÖZME VE ÖNLEME TESİSLERİNİN BAKIMI, ARIZA ONARIMI,\r\n  İŞLETİLMESİ HİZMETİ ALIMI VE SOLÜSYON TEMİNİ İHALE EDİLECEKTİR\nTCDD Taşımacılık\nA.Ş\n. Genel Müdürlüğü\nYHT\nBölge Müdürlüğünden:\nTAŞINMAZLAR SATILACAKTIR\nElazığ Belediye Başkanlığından:\nTAŞINMAZLAR SATILACAKTIR\nErzurum İli Yakutiye Belediye Başkanlığından:\nTAŞINMAZ SATILACAKTIR\nGönen Kaymakamlığı Milli Emlak Şefliğinden:\nTAŞINMAZLAR SATILACAKTIR\nKonya Büyükşehir Belediye Başkanlığından:\nTAŞINMAZ SATILACAKTIR\nManavgat Milli Emlak Müdürlüğünden:\n18 ADET TAŞINMAZ KİRAYA VERİLECEKTİR\nOrdu İli Akkuş Belediye Başkanlığından:",
+      "text_extraction_status": "success",
       "ai_title": "b - Artırma, Eksiltme ve İhale İlânları",
       "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
       "diff_summary": null,
       "effective_date": null,
       "importance": 1,
       "content_hash": "7fa0b4e698f37cd07f5b81f11fbfbf37c355364b811494acfdd91829a5c0e6b0",
-      "tags": [],
+      "tags": [
+        {
+          "slug": "tarim",
+          "name_tr": "Tarim",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        },
+        {
+          "slug": "enerji",
+          "name_tr": "Enerji",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        }
+      ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-13T12:44:32.622884"
+      "created_at": "2026-11-13T20:10:06.807849"
     },
     {
-      "id": "a3b18979-a957-4dd3-96d4-47271d7a64cb",
-      "issue_id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+      "id": "4842d30b-d338-4d30-92fb-cb0c9bf3da72",
+      "issue_id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
       "section": "İLÂN BÖLÜMÜ",
       "type": "GENEL",
       "title": "c - Çeşitli İlânlar",
       "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261113-4.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
+      "full_text": "ÇEŞİTLİ İLANLAR\n13 Kasım 2026 CUMA\nResmî Gazete\nSayı : 33429\nÇEŞİTLİ İLÂNLAR\nGençlik ve Spor Bakanlığı\r\n  Strateji Geliştirme Başkanlığından:\nIsparta Uygulamalı Bilimler\r\n  Üniversitesi Rektörlüğünden:\nMilli Savunma Bakanlığı\r\n  Tedarik Hizmetleri Genel Müdürlüğünden:\nSamsun Üniversitesi\r\n  Rektörlüğünden:\nİçişleri Bakanlığı Sahil\r\n  Güvenlik Komutanlığından:\nBursa Teknik Üniversitesi\r\n  Rektörlüğünden:\nHazine ve Maliye Bakanlığı\r\n  Hazine Kontrolörleri Kurulu Başkanlığından:\nÜsküdar Üniversitesi\r\n  Rektörlüğünden:\nYükseköğretim Kalite Kurulu\r\n  Başkanlığından:\nAdalet Bakanlığı Hukuk\r\n  İşleri Genel Müdürlüğünden:\nAdalet Bakanlığından:\nÇevre, Şehircilik ve İklim\r\n  Değişikliği Bakanlığı Yapı İşleri Genel Müdürlüğünden:\nErzurum Teknik Üniversitesi Rektörlüğünden:\nKayseri Üniversitesi Rektörlüğünden:\nBiruni\nÜniversitesi\r\n  Rektörlüğünden:\nÇankırı Karatekin\r\n  Üniversitesi Rektörlüğünden:\nİstanbul Okan Üniversitesi\r\n  Rektörlüğünden:\nKaramanoğlu\nMehmetbey\nÜniversitesi Rektörlüğünden:\nKültür ve Turizm\r\n  Bakanlığından:\nTürkiye Cumhuriyet Merkez\r\n  Bankasından:",
+      "text_extraction_status": "success",
       "ai_title": "c - Çeşitli İlânlar",
       "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
       "diff_summary": null,
       "effective_date": null,
       "importance": 1,
       "content_hash": "6e46aeda96ddb717cfd999467399d62f50d7de805f202e1b3fa696545cd2edae",
-      "tags": [],
+      "tags": [
+        {
+          "slug": "enerji",
+          "name_tr": "Enerji",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        }
+      ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-13T12:44:32.622951"
+      "created_at": "2026-11-13T20:10:06.808084"
     },
     {
-      "id": "c7ccc47a-0616-4f3d-984f-088ac1e7fc51",
-      "issue_id": "b6a06f1a-0ec6-4f63-bad6-66307d056dcb",
+      "id": "d6975f26-2bee-464c-888e-fb3948d4a5ed",
+      "issue_id": "89bb0789-a28b-4bfd-9f6d-ce99a3388810",
       "section": "İLÂN BÖLÜMÜ",
       "type": "GENEL",
       "title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
       "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261113-5.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
+      "full_text": "MERKEZ BANKASI\n13 Kasım 2026 CUMA\nResmî Gazete\nSayı : 33429\nMERKEZ BANKASI\n▲\n▲",
+      "text_extraction_status": "success",
       "ai_title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
       "ai_summary": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
       "diff_summary": null,
@@ -183,6 +217,12 @@
       "content_hash": "e28a3faa8be8dc61c111216f8dce047669393da3f9e586aa119d13ecf2576b5f",
       "tags": [
         {
+          "slug": "enerji",
+          "name_tr": "Enerji",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        },
+        {
           "slug": "finans",
           "name_tr": "Finans",
           "confidence": 1.0,
@@ -190,9 +230,9 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-13T12:44:32.622986"
+      "created_at": "2026-11-13T20:10:06.808227"
     }
   ],
-  "fetched_at": "2026-11-13T12:43:24.783198",
-  "cdn_generated_at": "2026-11-13T12:45:03.000128Z"
+  "fetched_at": "2026-11-13T20:08:04.407120",
+  "cdn_generated_at": "2026-11-13T20:10:37.141577Z"
 }
