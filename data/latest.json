@@ -1,250 +1,118 @@
 {
-  "id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
+  "id": "71f13fc3-ca44-4744-ab18-9f7bffb397e1",
   "date": "2026-11-18",
-  "number": 33434,
+  "number": 32700,
   "is_duplicate": false,
-  "source_url": "https://www.resmigazete.gov.tr",
-  "item_count": 10,
+  "source_url": "https://www.resmigazete.gov.tr/18.11.2026",
+  "item_count": 3,
   "items": [
     {
-      "id": "21c13bf7-e83d-4256-bbe3-99fff5433c04",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
+      "id": "d2406a71-fa57-4931-a6d2-17e8bf4492c8",
+      "issue_id": "71f13fc3-ca44-4744-ab18-9f7bffb397e1",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "CUMHURBAŞKANI KARARLARI",
-      "title": "Bazı Anlaşmaların Yürürlüğe Girdiği Tarihlerin Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11992)",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-1.pdf",
-      "full_text": "\b\u0019\f\u000b\u0019#\u0007\"\u0014\u001e\"\u0018\u0017!\u001e\"#\"#\u0017\n\u001e \u001c \u001c!\u000e \u001f\u001d\u0012\u001d\u0006!\u0015\u0015\u0016\u0016\u0005\n\u0004\u0006\u0017\u0015\u000e\u0010\u0011\u000f\u0017\u0013\u0003\u0013\u0005\n#\u001a\u0010\u001a\u001b!\u000f \u001f\u001f\u0011\u001b!\n#\t\r\u0013\"\u0018\n\b\u0016\u000b\t\u0016\r\u0007\u0014\u0012\u0015\u0014\f\n\u0005\u0007\u0019\n\u0015\u000f\u0016\u000e\u0019\u0013\u0004\u0013\u0006\u0019\u0011\u0018\f\u0012\u0018\u000b\t\u0018 \u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0004\f\u0007\u0006\n\u000b\u0003\u0005\t\f\b\f\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\r\u0015\u0010\u0016\u0019\b\u0019\u0017\u0017\u0014\u0017\u0014",
+      "type": "Tebliğ",
+      "title": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 52)",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-1.htm",
+      "full_text": "MADDE 1 – Katma Değer Vergisi beyanname verme süresi takip eden ayın 26 ncı gününden 28 inci gününe uzatılmıştır.\nMADDE 2 – Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
       "text_extraction_status": "success",
-      "ai_title": "Bazı Anlaşmaların Yürürlüğe Girdiği Tarihlerin Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11992)",
-      "ai_summary": "Bazı Anlaşmaların Yürürlüğe Girdiği Tarihlerin Tespit Edilmesi Hakkında Karar (Karar Sayısı: 11992) yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "82361d286bb31da8b6e4f4f065d7087e8e8a5bc7b58f47cb729e797aa7cb9396",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T21:58:28.252899"
-    },
-    {
-      "id": "819e8fc1-e3e6-4ea2-b114-afb695932d56",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
-      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "CUMHURBAŞKANI KARARLARI",
-      "title": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının Sınırlarının Değiştirilmesi Hakkında Karar (Karar Sayısı: 11993)",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-2.pdf",
-      "full_text": "\u001b\u000e\r\u001b%\t$\u0016 $\u001a\u0019# $%$%\u0019\n \"\u001e\"\u001e#\u0010\"!\u001f\u0014\u001f\b#\u0017\u0017\u0018\u0018\u0007\n\u0004\u0006\u0017\u0015\u000e\u0010\u0011\u000f\u0017\u0013\u0003\u0013\u0005\n%\u001c\u0012\u001c\u001d#\u0011\"!!\u0013\u001d#\f%\u000b\u000f\u0015$\u001a\n\b\u0016\u000b\t\u0016\r\u0007\u0014\u0012\u0015\u0014\f\n\u0005\u0007\u0019\n\u0015\u000f\u0016\u000e\u0019\u0013\u0004\u0013\u0006\u0019\u0011\u0018\f\u0012\u0018\u000b\t\u0018 \u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0004\f\u0007\u0006\n\u000b\u0003\u0005\t\f\b\f\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\r\u0015\u0010\u0016\u0019\b\u0019\u0017\u0017\u0014\u0017\u0014\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e\u001a\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e\u001b\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e\u0005\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e\u0006\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e\u0018\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e\u0019\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u0003\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u0004\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u0013\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u001a\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u001b\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u0005\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u0006\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u0018\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0004\u0019\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0013\u0003\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0013\u0004\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0013\u0013\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0013\u001a\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0013\u001b\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001d\u0011\u0017\u001e \u0013",
-      "text_extraction_status": "success",
-      "ai_title": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının Sınırlarının Değiştirilmesi Hakkında Karar (Karar Sayısı: 11993)",
-      "ai_summary": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahasının Sınırlarının Değiştirilmesi Hakkında Karar (Karar Sayısı: 11993) yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "d1ca6a0c6c54ce5d0e99a4dd1208f815c7e7f19a90b41f45485d28dd76c1a311",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T21:58:43.072552"
-    },
-    {
-      "id": "1b6c7e40-cb4a-4e0d-8048-dd932aaead45",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
-      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "CUMHURBAŞKANI KARARLARI",
-      "title": "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar (Karar Sayısı: 11994)",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-3.pdf",
-      "full_text": "\u001b\u000e\r\u001b%\t$\u0016 $\u001a\u0019# $%$%\u0019\n \"\u001e\"\u001e#\u0010\"!\u001f\u0014\u001f\b#\u0017\u0017\u0018\u0018\u0007\n\u0004\u0006\u0017\u0015\u000e\u0010\u0011\u000f\u0017\u0013\u0003\u0013\u0005\n%\u001c\u0012\u001c\u001d#\u0011\"!!\u0013\u001d#\f%\u000b\u000f\u0015$\u001a\n\b\u0016\u000b\t\u0016\r\u0007\u0014\u0012\u0015\u0014\f\n\u0005\u0007\u0019\n\u0015\u000f\u0016\u000e\u0019\u0013\u0004\u0013\u0006\u0019\u0011\u0018\f\u0012\u0018\u000b\t\u0018 \u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0019\u0004\f\u0007\u0006\n\u000b\u0003\u0005\t\f\b\f\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\u0017\r\u0015\u0010\u0016\u0019\b\u0019\u0017\u0017\u0014\u0017\u0014\n\n&,*\u001c+)\u001c(\u0013' \u0014\u001a\u0011\u0017\u001b\u0018",
-      "text_extraction_status": "success",
-      "ai_title": "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar (Karar Sayısı: 11994)",
-      "ai_summary": "Yabancı Yatırımcılara Düzenlenecek İkamet İzinlerine Dair Karar (Karar Sayısı: 11994) yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "298d6b1103196d1d05c9063516518d17688c5c74d2884bf2caf05fa572d3124e",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T21:58:56.022316"
-    },
-    {
-      "id": "c0f2afe3-afb7-4a55-94f2-81e769149bcd",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
-      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİK",
-      "title": "Harran Üniversitesi Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-4.htm",
-      "full_text": "18 Kasım 2026 ÇARŞAMBA\n18 Kasım 2026 ÇARŞAMBA\nResmî Gazete\nSayı : 33434\nYÖNETMELİK\nHarran Üniversitesinden:\nHARRAN\r\n    ÜNİVERSİTESİ ELEKTRİKLİ ARAÇ EĞİTİM UYGULAMA\nVE ARAŞTIRMA MERKEZİ YÖNETMELİĞİ\nBİRİNCİ BÖLÜM\nBaşlangıç Hükümleri\nAmaç\nMADDE 1-\n(1) Bu Yönetmeliğin amacı; Harran Üniversitesi\r\n    Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezinin amaçlarına,\r\n    faaliyet alanlarına, yönetim organlarına, yönetim organlarının görevlerine\r\n    ve çalışma şekline ilişkin usul ve esasları düzenlemektir.\nKapsam\nMADDE 2-\n(1) Bu Yönetmelik; Harran Üniversitesi Elektrikli\r\n    Araç Eğitim Uygulama ve Araştırma Merkezinin amaçlarına, faaliyet\r\n    alanlarına, yönetim organlarına, yönetim organlarının görevlerine ve\r\n    çalışma şekline ilişkin hükümleri kapsar.\nDayanak\nMADDE 3-\n(1) Bu Yönetmelik,\n4/11/1981\ntarihli ve 2547 sayılı Yükseköğretim Kanununun 7\nnci\nmaddesinin birinci fıkrasının (d) bendinin (2) numaralı alt bendi ile 14\r\n    üncü maddesine dayanılarak hazırlanmıştır.\nTanımlar\nMADDE 4-\n(1) Bu Yönetmelikte geçen;\na) Danışma Kurulu: Merkezin Danışma Kurulunu,\nb) Elektrikli araç: Hareketinde tamamen veya kısmen\r\n    elektrik motorundan yararlanan elektrikli,\nhibrit\nve yakıt hücreli kara taşıtlarını,\nc) Merkez (HAREV): Harran Üniversitesi Elektrikli\r\n    Araç Eğitim Uygulama ve Araştırma Merkezini,\nç) Müdür: Merkezin Müdürünü,\nd) Rektör: Harran Üniversitesi Rektörünü,\ne) Üniversite: Harran Üniversitesini,\nf) Yönetim Kurulu: Merkezin Yönetim Kurulunu,\nifade\neder.\nİKİNCİ BÖLÜM\nMerkezin Amaçları ve Faaliyet Alanları\nMerkezin\r\n    amaçları\nMADDE 5-\n(1) Merkezin amaçları şunlardır:\na) Elektrikli araçlar ve ilgili yeni nesil otomotiv\r\n    teknolojileri konusunda nitelikli insan kaynağının yetiştirilmesine katkı\r\n    sağlamak.\nb) Öğrenciler, teknik personel, sektör çalışanları,\r\n    kamu personeli ve toplumun farklı kesimlerine yönelik eğitim, bilgilendirme\r\n    ve\nfarkındalık\nfaaliyetleri yürütmek.\nc) Toplumu ulaşım teknolojilerindeki dönüşüme\r\n    hazırlamak; enerji verimliliği, çevrenin korunması, düşük karbonlu ulaşım\r\n    ve sürdürülebilirlik bilincinin yaygınlaşmasına katkıda bulunmak.\nç) Şanlıurfa ili ve bölgenin otomotiv sektöründeki\r\n    eğitim, teknik destek, araştırma, uygulama ve hizmet ihtiyaçlarını\r\n    belirlemek ve bu ihtiyaçlara yönelik çözümler geliştirmek.\nd) Elektrikli araçların yüksek gerilim sistemleri,\r\n    enerji depolama sistemleri, elektrik makineleri, güç elektroniği, şarj\r\n    teknolojileri, araç elektroniği, haberleşme ve teşhis sistemleri ile bakım\r\n    ve onarım uygulamalarında eğitimler vermek.\ne) Üniversite-sanayi-kamu iş birliğini\r\n    güçlendirmek, ortak projeler geliştirmek ve bilgi ile teknoloji transferine\r\n    katkı sağlamak.\nf) Elektrikli araç teknolojileri alanında bilimsel\r\n    araştırma, uygulama, test, ölçüm, inceleme ve danışmanlık kapasitesi\r\n    oluşturmak.\ng) Mesleki yeterlilik, iş sağlığı ve güvenliği ile\r\n    güvenli çalışma kültürünün gelişmesine katkıda bulunmak.\nğ) Ulusal ve uluslararası düzeyde tanınan,\r\n    güvenilir ve sürdürülebilir bir eğitim, uygulama ve araştırma altyapısı\r\n    oluşturmak.\nMerkezin\r\n    faaliyet alanları\nMADDE 6-\n(1) Merkezin faaliyet alanları şunlardır:\na) İlgili mevzuat hükümleri kapsamında elektrikli,\nhibrit\nve yakıt hücreli araçlar ile geleneksel ve yeni\r\n    nesil otomotiv teknolojilerine ilişkin kurs, seminer, konferans,\nçalıştay\n, uygulamalı eğitim, hizmet içi eğitim,\r\n    sertifika programı ve benzeri faaliyetler düzenlemek.\nb) İlgili mevzuat ve Üniversitenin yetkili\r\n    kurullarınca belirlenen usul ve esaslar çerçevesinde ölçme ve değerlendirme\r\n    yapmak; katılım belgesi, başarı belgesi veya sertifika düzenlenmesine\r\n    yönelik işlemleri yürütmek.\nc) Yüksek gerilim güvenliği, elektriksel güvenlik,\r\n    batarya güvenliği, yangın ve acil durumlar, iş sağlığı ve güvenliği ile\r\n    çevre güvenliği konularında eğitim ve uygulamalar yürütmek.\nç) İlgili mevzuat hükümleri kapsamında elektrikli\r\n    araçlara ve otomotiv sistemlerine ilişkin arıza teşhisi, bakım, onarım,\r\n    kontrol, test, ölçüm, teknik inceleme, raporlama ve danışmanlık hizmetleri\r\n    sunmak.\nd) İlgili mevzuat hükümleri kapsamında bölgesel ve\r\n    toplumsal ihtiyaçlar doğrultusunda, konvansiyonel motorlu taşıtlar da\ndahil\nolmak üzere bakım, onarım, arıza teşhisi, test,\r\n    ölçüm ve teknik inceleme işlemleri ile bu araçlara ilişkin eğitim,\r\n    bilgilendirme, danışmanlık ve benzeri topluma katkı faaliyetlerini\r\n    yürütmek.\ne)\nLaboratuvar\n, atölye,\r\n    eğitim aracı,\nsimülasyon\nsistemi, ölçüm cihazı,\r\n    yazılım, veri tabanı ve benzeri altyapıları kurmak, geliştirmek ve ilgili\r\n    mevzuat çerçevesinde kullandırmak.\nf) Kamu kurum ve kuruluşları, yerel yönetimler,\r\n    meslek kuruluşları, özel sektör, sivil toplum kuruluşları ve ulusal veya\r\n    uluslararası kuruluşlarla iş birliği yapmak; ortak proje ve programlar\r\n    yürütmek.\ng) Bölgesel ihtiyaç ve yetkinlik analizleri yapmak;\nsektörel\nsorunlara ilişkin çözüm önerileri,\r\n    fizibilite raporları, teknik raporlar ve politika önerileri hazırlamak.\nğ) Ulusal ve uluslararası araştırma, eğitim, sosyal\r\n    sorumluluk ve kapasite geliştirme projelerine yürütücü, ortak, iştirakçi\r\n    veya paydaş olarak katılmak.\nh) Bilimsel ve teknik yayınlar hazırlamak; veri,\r\n    belgelendirme ve bilgi paylaşım platformları oluşturmak.\nı) Üniversite öğrencilerinin uygulamalı eğitim,\r\n    staj, proje, bitirme çalışması ve girişimcilik faaliyetlerine uygun ortam\r\n    sağlamak.\ni) İlgili mevzuata uygun diğer faaliyetleri\r\n    yürütmek.\nÜÇÜNCÜ BÖLÜM\nMerkezin Yönetim Organları ve Görevleri\nMerkezin\r\n    yönetim organları\nMADDE 7-\n(1) Merkezin yönetim organları şunlardır:\na) Müdür.\nb) Yönetim Kurulu.\nc) Danışma Kurulu.\nMüdür\nMADDE 8-\n(1) Müdür, Merkezin faaliyet alanlarıyla ilgili\r\n    çalışmaları bulunan Üniversitenin öğretim üyeleri arasından Rektör\r\n    tarafından üç yıl için görevlendirilir. Görev süresi biten Müdür aynı\r\n    usulle yeniden görevlendirilebilir. Rektör gerekli gördüğü hallerde Müdürü\r\n    süresi bitmeden görevden alabilir.\n(2) Müdüre çalışmalarında yardımcı olmak üzere\r\n    Üniversitenin öğretim elemanları arasından en fazla iki kişi, Müdürün\r\n    önerisi üzerine Rektör tarafından üç yıl süreyle müdür yardımcısı olarak\r\n    görevlendirilebilir. Gerekli görülen hallerde aynı usulle müdür yardımcıları\r\n    değiştirilebilir.\n(3) Müdür yardımcıları, Müdürün vereceği görevleri\r\n    yapar. Müdür, görevi başında bulunmadığı zamanlarda yardımcılarından\r\n    birisini vekil bırakır. Göreve vekâlet altı aydan fazla sürerse yeni bir\r\n    Müdür görevlendirilir. Müdürün görevi sona erdiğinde müdür yardımcılarının\r\n    görevleri de kendiliğinden sona erer.\nMüdürün\r\n    görevleri\nMADDE 9-\n(1) Müdürün görevleri şunlardır:\na) Merkezin faaliyetlerinin düzenli, etkin, güvenli\r\n    ve ilgili mevzuata uygun biçimde yürütülmesini sağlamak ve gerekli\r\n    tedbirleri almak.\nb) Yönetim Kurulu ve Danışma Kuruluna başkanlık\r\n    etmek ve toplantıya çağırmak.\nc) Yıllık faaliyet raporu ile bir sonraki yıla ait\r\n    çalışma programını hazırlamak ve Yönetim Kurulunun onayından sonra Rektöre\r\n    sunmak.\nç) Merkezin altyapı, personel ve mali kaynak\r\n    ihtiyaçlarını belirlemek ve geliştirilmesine yönelik girişimlerde bulunmak.\nd) Merkezde sunulan eğitim ve teknik hizmetlerin\r\n    kalite, iş sağlığı ve güvenliği, çevre, veri güvenliği ve kayıt düzenine\r\n    ilişkin süreçlerini gözetmek.\nYönetim\r\n    Kurulu\nMADDE 10-\n(1) Yönetim Kurulu; Müdürün\r\n    başkanlığında, müdür yardımcıları ile Merkezin faaliyet alanlarıyla ilgili\r\n    çalışmaları bulunan Üniversite öğretim elemanları arasından Müdürün önerisi\r\n    üzerine Rektör tarafından üç yıllık süreyle görevlendirilen iki üye olmak\r\n    üzere toplam beş üyeden oluşur. Görev süresi biten üyeler aynı usulle\r\n    yeniden görevlendirilebilir. Süresi dolmadan ayrılan üyenin yerine, kalan\r\n    süreyi tamamlamak üzere aynı usulle yeni üye görevlendirilir.\n(2) Yönetim Kurulu, Müdürün çağrısı üzerine yılda\r\n    en az iki kez salt çoğunluk ile toplanır ve kararlar toplantıya\r\n    katılanların oy çokluğuyla alınır. Oyların eşitliği halinde Müdürün\r\n    kullandığı oy yönünde çoğunluk sağlanmış sayılır. Tutanaklar, Danışma\r\n    Kurulu üyelerinin incelemesine açık tutulur ve tutanakların bir nüshası\r\n    Rektöre iletilir.\nYönetim\r\n    Kurulunun görevleri\nMADDE 11-\n(1) Yönetim Kurulunun görevleri\r\n    şunlardır:\na) Merkezin yönetimi ve faaliyetleriyle ilgili\r\n    kararları almak.\nb) Yıllık faaliyet raporunu, çalışma programını ve\r\n    uzun vadeli planları görüşerek karara bağlamak.\nc) Eğitim, araştırma, uygulama, danışmanlık ve hizmet\r\n    faaliyetlerine ilişkin önerileri değerlendirmek.\nç) Eğitim programlarının açılması, eğitici\r\n    görevlendirilmesi, ölçme-değerlendirme ve belgelendirme esaslarına ilişkin\r\n    önerileri karara bağlamak ve gerektiğinde Üniversitenin yetkili kurullarına\r\n    sunmak.\nd) Merkezde sunulacak teknik hizmetlerin kapsamı,\r\n    hizmet kabul koşulları, kalite ve güvenlik esasları ile raporlama\r\n    süreçlerine ilişkin önerileri değerlendirmek.\ne) Çalışma grupları ve komisyonlar kurmak,\r\n    görevlerini ve çalışma esaslarını belirlemek.\nf) Danışma Kurulunun görüş ve önerilerini\r\n    değerlendirmek.\ng) Merkezin yatırım, bütçe, cihaz,\nekipman\nve personel ihtiyaçlarına ilişkin önerileri\r\n    karara bağlamak ve Rektörlüğe sunmak.\nğ) Müdürün getireceği diğer konuları görüşerek\r\n    karara bağlamak.\nDanışma\r\n    Kurulu\nMADDE 12-\n(1) Danışma\r\n    Kurulu; Müdürün başkanlığında, Merkezin faaliyet alanlarında çalışmaları\r\n    bulunan Üniversite öğretim elemanları ile kamu kurum ve kuruluşları, yerel\r\n    yönetimler, meslek kuruluşları, özel sektör, sivil toplum kuruluşları ve\r\n    diğer paydaşların temsilcileri veya uzman kişiler arasından Müdürün önerisi\r\n    üzerine Rektör tarafından üç yıl süreyle görevlendirilen en fazla on üyeden\r\n    oluşur.\nGörev süresi biten\r\n    üyeler aynı usulle yeniden görevlendirilebilir.\n(2) Danışma Kurulu, Müdürün çağrısı üzerine yılda\r\n    en az bir kez toplanır. Müdür gerekli gördüğünde Danışma Kurulunu ayrıca\r\n    toplantıya çağırabilir. Danışma Kurulunda karar alınması için toplantı\r\n    yeter sayısı aranmaz, görüş ve öneriler toplantıya katılanların\r\n    değerlendirmeleri doğrultusunda tutanağa bağlanır.\nDanışma\r\n    Kurulunun görevleri\nMADDE 13-\n(1) Danışma Kurulunun görevleri\r\n    şunlardır:\na) Merkezin uzun vadeli planlarını değerlendirmek\r\n    ve Yönetim Kuruluna önerilerde bulunmak.\nb)\nSektörel\ngelişmeler,\r\n    bölgesel ihtiyaçlar, mesleki yeterlilikler, eğitim içerikleri ve hizmet\r\n    alanları konusunda bilgi ve deneyim paylaşmak.\nc) Üniversite ile kamu, sanayi, meslek kuruluşları\r\n    ve toplum arasındaki iş birliğinin geliştirilmesine katkı sağlamak.\nç) Merkezin faaliyetlerinin niteliğinin,\r\n    görünürlüğünün ve toplumsal etkisinin artırılmasına yönelik öneriler sunmak.\nDÖRDÜNCÜ BÖLÜM\nÇeşitli ve Son Hükümler\nÇalışma\r\n    grupları\nMADDE 14-\n(1) Merkezin amaçlarının\r\n    gerçekleştirilebilmesi için Yönetim Kurulu tarafından çalışma grupları\r\n    oluşturulabilir.\n(2) Çalışma gruplarında görev alacak personel,\r\n    çalışma gruplarının görevleri ile çalışma usul ve esasları Yönetim Kurulu\r\n    tarafından belirlenir.\nPersonel\r\n    ihtiyacı\nMADDE 15-\n(1) Merkezin akademik, teknik ve\r\n    idari personel ihtiyacı, 2547 sayılı Kanunun 13 üncü maddesi uyarınca\r\n    Rektör tarafından görevlendirilen personel ile karşılanır.\nHarcama\r\n    yetkilisi\nMADDE 16-\n(1) Merkezin harcama yetkilisi\r\n    Müdürdür.\nEkipman\r\n    ve demirbaşlar\nMADDE 17-\n(1) Merkez tarafından yürütülen\r\n    çalışmalar kapsamında edinilen her türlü alet, donanım, demirbaş ve sarf\r\n    malzemelerin kullanım hakkı münhasıran Merkeze aittir.\nHüküm\r\n    bulunmayan haller\nMADDE 18-\n(1) Bu Yönetmelikte hüküm\r\n    bulunmayan hallerde 2547 sayılı Kanun ve ilgili diğer mevzuat hükümleri\r\n    uygulanır.\nYürürlük\nMADDE 19-\n(1) Bu Yönetmelik yayımı tarihinde\r\n    yürürlüğe girer.\nYürütme\nMADDE 20-\n(1) Bu Yönetmelik hükümlerini\r\n    Harran Üniversitesi Rektörü yürütür.",
-      "text_extraction_status": "success",
-      "ai_title": "Harran Üniversitesi Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği",
-      "ai_summary": "Harran Üniversitesi Elektrikli Araç Eğitim Uygulama ve Araştırma Merkezi Yönetmeliği yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "1f34455debe474ee915e4d455805a5b446b406747d37de3d49dbf917f2e9a9f6",
+      "ai_title": "KDV Beyanname Verme Süreleri 2 Gün Uzatıldı",
+      "ai_summary": "Katma Değer Vergisi beyannamelerinin verilme süresi takip eden ayın 26'sından 28'inci gününe kadar uzatıldı. Mali müşavir ve KDV mükelleflerinin iş yükünü hafifletmektedir.",
+      "diff_summary": {
+        "has_diff": true,
+        "old_rule": "Beyanname süresi: Takip eden ayın 26. günü",
+        "new_rule": "Beyanname süresi: Takip eden ayın 28. günü",
+        "comparison_text": "Eski: Takip eden ayın 26. günü -> Yeni: Takip eden ayın 28. günü (+2 gün ilave süre)"
+      },
+      "effective_date": "2026-11-18",
+      "importance": 5,
+      "content_hash": "sample_hash_kdv_52",
       "tags": [
         {
-          "slug": "enerji",
-          "name_tr": "Enerji",
+          "slug": "vergi",
+          "name_tr": "Vergi",
           "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T21:59:13.547367"
-    },
-    {
-      "id": "1a1a8bc7-040a-4849-a6d7-6ac30f71c07b",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
-      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "TEBLİĞ",
-      "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/32)",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-5.htm",
-      "full_text": "18 Kasım 2026 ÇARŞAMBA\n18 Kasım 2026 ÇARŞAMBA\nResmî Gazete\nSayı : 33434\nTEBLİĞ\nTicaret Bakanlığından:\nİTHALATTA\r\n    HAKSIZ REKABETİN ÖNLENMESİNE İLİŞKİN TEBLİĞ\n(TEBLİĞ NO:\r\n    2026/32)\nAmaç ve\r\n    kapsam\nMADDE 1-\n(1) Bu Tebliğin amacı,\n21/5/2025\ntarihli ve 32906 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız\r\n    Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ No: 2025/7) ile Çin Halk\r\n    Cumhuriyeti, Endonezya Cumhuriyeti, Hindistan Cumhuriyeti, Malezya,\r\n    Pakistan İslam Cumhuriyeti, Tayland Krallığı ve Vietnam Sosyalist\r\n    Cumhuriyeti menşeli 55.08, 55.09 (5509.52, 5509.61, 5509.91 gümrük tarife\r\n    pozisyonları hariç), 55.10 (5510.20 gümrük tarife pozisyonu hariç) ve 55.11\r\n    gümrük tarife pozisyonları altında sınıflandırılan “sentetik veya suni\r\n    devamsız liflerden iplikler (kesik elyaf ipliği)” ürünü ithalatına yönelik\r\n    başlatılan ve Ticaret Bakanlığı İthalat Genel Müdürlüğü tarafından\r\n    yürütülen nihai gözden geçirme soruşturmasının tamamlanması neticesinde\r\n    alınan kararın yürürlüğe konulmasıdır.\nDayanak\nMADDE 2-\n(1) Bu Tebliğ,\n14/6/1989\ntarihli ve 3577 sayılı İthalatta Haksız Rekabetin Önlenmesi Hakkında Kanun,\r\n    20/10/1999 tarihli ve 99/13482 sayılı Bakanlar Kurulu Kararı ile yürürlüğe\r\n    konulan İthalatta Haksız Rekabetin Önlenmesi Hakkında Karar ve 30/10/1999\r\n    tarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız Rekabetin\r\n    Önlenmesi Hakkında Yönetmeliğe dayanılarak hazırlanmıştır.\nTanımlar\nMADDE 3-\n(1) Bu Tebliğde geçen;\na) CIF: Masraflar, sigorta ve navlun dâhil teslimi,\nb) GTP: Gümrük tarife pozisyonunu,\nc) Kurul: İthalatta Haksız Rekabeti Değerlendirme\r\n    Kurulunu,\nç) TGTC: İstatistik Pozisyonlarına Bölünmüş Türk\r\n    Gümrük Tarife Cetvelini,\nd) Yönetmelik:\n30/10/1999\ntarihli ve 23861 sayılı Resmî Gazete’de yayımlanan İthalatta Haksız\r\n    Rekabetin Önlenmesi Hakkında Yönetmeliği,\nifade\neder.\nKarar\nMADDE 4-\n(1) Yürütülen soruşturma sonucunda, Çin Halk\r\n    Cumhuriyeti, Endonezya Cumhuriyeti, Hindistan Cumhuriyeti, Malezya,\r\n    Pakistan İslam Cumhuriyeti, Tayland Krallığı ve Vietnam Sosyalist\r\n    Cumhuriyeti menşeli ürüne yönelik önlemlerin yürürlükten kalkması durumunda\ndampingin\nve zararın devam etmesinin veya yeniden\r\n    meydana gelmesinin muhtemel olduğu saptanmıştır. Ticaret Bakanlığı İthalat\r\n    Genel Müdürlüğü tarafından yürütülerek tamamlanan soruşturma sonucunda\r\n    ulaşılan bilgi ve bulguları içeren Bilgilendirme Raporu Ek’te yer\r\n    almaktadır.\n(2) Bu\r\n    çerçevede, soruşturma neticesinde ulaşılan tespitleri değerlendiren Kurulun\r\n    kararı ile\n22/5/2020\ntarihli ve 31134 sayılı Resmî\r\n    Gazete’de yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ\r\n    (Tebliğ No: 2020/8) ile Çin Halk Cumhuriyeti, Endonezya Cumhuriyeti,\r\n    Hindistan Cumhuriyeti, Malezya, Pakistan İslam Cumhuriyeti, Tayland\r\n    Krallığı ve Vietnam Sosyalist Cumhuriyeti için yürürlükte olan dampinge\r\n    karşı önlemlerin ve 22/5/2020 tarihli ve 31134 sayılı Resmî Gazete’de\r\n    yayımlanan İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (Tebliğ\r\n    No: 2020/9) ile Endonezya Cumhuriyeti’nde yerleşik PT Elegant Textile\r\n    Industry ve PT Sunrise Bumi Textiles firmaları için yürürlükte olan\r\n    dampinge karşı önlemlerin, Yönetmeliğin 42 nci maddesi çerçevesinde aşağıdaki\r\n    tabloda gösterilen biçimde uygulanmaya devam edilmesine karar verilmiştir.\nGTP\nEşya Tanımı\nMenşe Ülke\nFirma Ünvanı\nDampinge Karşı\nÖnlem (ABD\nDoları/Kg, CIF\nBedelin Yüzdesi)\n55.08; 55.09 (\n5509.52\n; 5509.61;\r\n      5509.91 hariç); 55.10 (5510.20 hariç); 55.11\nSentetik ve suni\ndevamsız\nliflerden\niplikler\nÇin Halk\nCumhuriyeti\nNantong A-Z Textile Co\n.,\nLtd.\n0,49 ABD Doları/Kg\nDiğerleri\n0,80 ABD Doları/Kg\nHindistan\nCumhuriyeti\nRswm Limited\n0,29 ABD Doları/Kg\nDiğerleri\n0,39 ABD Doları/Kg\nEndonezya\nCumhuriyeti\nPT Apac Inti Corpora\n0,23 ABD Doları/Kg\nPT Kamaltex\n0,25 ABD Doları/Kg\nPT\r\n      Sinar Pantja Djaja\nPT\r\n      Bitratex Industries\nPT\r\n      Himalaya Tunas Texindo\nPT\r\n      Indoroma Synthetics TBK\nPT\r\n      Lotus Indah Textile Industries\nPT\r\n      Sri Rejeki Isman-Sritex\nPT\r\n      Kewalram Indonesia\nPT\r\n      Embee Plumbon Tekstil\nPT\r\n      Indo Liberty Textiles\nPolysindo\r\n      Eka Perkasa\nPT Elegant Textile Industry\n%3,62\nPT Sunrise Bumi Textiles\n%5,03\nDiğerleri\n0,40 ABD Doları/Kg\nMalezya\nPenfabric\nSdn.Berhad\n%17,03\nRecron\nSdn.Bhd\n.\n%11,26\nDiğerleri\n%18,32\nPakistan\nİslam\nCumhuriyeti\nDin Textile Mills Ltd.\n%10,02\nMargalla Textile Mills Ltd.\n%6,62\nMonnoowal Textile Mills Ltd.\n%6,62\nDiğerleri\n%12,18\nTayland\nKrallığı\nIndo-Thai Synthetic Co\n.,\nLtd.\n%7,79\nLucky Spinning Co\n.,\nLtd.\n%14,02\nDiğerleri\n%20,24\nVietnam\nSosyalist\nCumhuriyeti\nFormosa Industries Corp.\n%19,48\nDong Quang Spinning Corp.\n%22,15\nThanh Cong Textile Garment Investment\r\n      Trading Jsc\n%23,91\nPhu Bai Spinning Mill Joint Stock\r\n      Company\n%20,11\nThien Nam Investment and Development\r\n      Jsc\n%20,87\nHue Textile Garment Joint Stock\r\n      Company\nPhu Thanh Spinning Joint Stock\r\n      Company\nEvergreen Global Pte Ltd.\nPhong Phu Yarn Thread\nComp.Ltd.\nPhu Viet Spinning Joint Stock Company\nDiğerleri\n%26,25\nUygulama\nMADDE 5-\n(1) Gümrük idareleri, 4 üncü maddede GTP’si, eşya\r\n    tanımı ve menşe ülkesi belirtilen eşyanın, diğer mevzuat hükümleri saklı\r\n    kalmak kaydıyla, serbest dolaşıma giriş rejimi kapsamındaki ithalatında\r\n    karşısında gösterilen tutarda/oranda\ndampinge\nkarşı kesin önlemi tahsil ederler.\n(2) Bilgilendirme Raporunda soruşturma konusu ürün\r\n    ve benzer ürün ile ilgili açıklamalar genel içerikli olup uygulamaya esas\r\n    olan TGTC’de yer alan GTP ve 4 üncü maddede yer alan tabloda belirtilen\r\n    eşya tanımıdır.\n(3) Önleme tabi ürünün TGTC’de yer alan tarife\r\n    pozisyonunda ve/veya tanımında yapılacak değişiklikler bu Tebliğ hükümlerinin\r\n    uygulanmasına engel teşkil etmez.\n(4) Yönetmeliğin 35 inci maddesinin birinci fıkrası\r\n    uyarınca bu Tebliğ kapsamındaki önlem, yürürlük tarihinden itibaren 5 yıl\r\n    sonra yürürlükten kalkar.\n(5) Yönetmeliğin 35 inci maddesi uyarınca bu Tebliğ\r\n    kapsamındaki önlemin sona erme tarihinden önce bir nihai gözden geçirme\r\n    soruşturması başlatıldığı takdirde önlem, soruşturma sonuçlanıncaya kadar\r\n    yürürlükte kalmaya devam eder.\nYürürlük\nMADDE 6-\n(1) Bu Tebliğ yayımı tarihinde yürürlüğe girer.\nYürütme\nMADDE 7-\n(1) Bu Tebliğ hükümlerini Ticaret Bakanı yürütür.\nEki için tıklayınız",
-      "text_extraction_status": "success",
-      "ai_title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/32)",
-      "ai_summary": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/32) yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": "2026-11-17",
-      "importance": 3,
-      "content_hash": "b93bd9570d62896ba4bf57b8cc04f3e523042e3d1a58a5728f79a47999a18bc6",
-      "tags": [
-        {
-          "slug": "gumruk",
-          "name_tr": "Gumruk",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "reason": null
         },
         {
-          "slug": "enerji",
-          "name_tr": "Enerji",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "slug": "esnaf",
+          "name_tr": "Esnaf / KOBİ",
+          "confidence": 0.9,
+          "reason": null
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T21:59:43.818810"
+      "created_at": "2026-11-18T02:47:20.481604"
     },
     {
-      "id": "79087ad9-99c0-4468-b63e-4b17c8b4c3a6",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
+      "id": "501f932b-1cc0-4169-9baa-226875369e42",
+      "issue_id": "71f13fc3-ca44-4744-ab18-9f7bffb397e1",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "KURUL KARARI",
-      "title": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 Tarihli ve 11601 Sayılı Kararı",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261118-6.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 Tarihli ve 11601 Sayılı Kararı",
-      "ai_summary": "Bankacılık Düzenleme ve Denetleme Kurulunun 17/11/2026 Tarihli ve 11601 Sayılı Kararı yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "3f2c81faf8081223e4bbc808d8805a56f11fab56791c5a712b71b32098401cb7",
-      "tags": [
-        {
-          "slug": "finans",
-          "name_tr": "Finans",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T22:00:14.143431"
-    },
-    {
-      "id": "646c0f03-d78a-47ec-b886-f438d6217576",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "a - Yargı İlânları",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261118-2.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "a - Yargı İlânları",
-      "ai_summary": "a - Yargı İlânları yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "4326c106122bc628798cf3ca7de9b8df1b2b5a2bdd1e2af8b98ad2587e8514b5",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T22:00:35.650104"
-    },
-    {
-      "id": "09b423aa-b2d4-4013-8d51-c62310776916",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "b - Artırma, Eksiltme ve İhale İlânları",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261118-3.htm",
-      "full_text": "ARTIRMA, EKSİLTME VE İHALE İLÂNLARI\n18 Kasım 2026 ÇARŞAMBA\nResmî Gazete\nSayı : 33434\nARTIRMA, EKSİLTME VE İHALE\r\n  İLÂNLARI\nORMAN EMVALİ SATILACAKTIR\nGiresun Orman Bölge Müdürlüğü Ünye Orman İşletme Müdürlüğünden:\n55 ADET ATM KABİN YERİ KİRAYA VERİLECEKTİR\nİstanbul İli Sarıyer Belediye Başkanlığından:",
+      "type": "Yönetmelik",
+      "title": "Sosyal Sigorta İşlemleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-2.htm",
+      "full_text": "MADDE 1 – İşyeri bildirgesi verme süresi 15 günden 30 güne çıkarılmıştır.\nMADDE 2 – Bu Yönetmelik 01.11.2026 tarihinde yürürlüğe girer.",
       "text_extraction_status": "success",
-      "ai_title": "b - Artırma, Eksiltme ve İhale İlânları",
-      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 1,
-      "content_hash": "7a9424beae30f90ca77e461308a196fa46f590197b6dc2347cacad59ffa1b8ea",
+      "ai_title": "İşyeri Bildirgesi Verme Süresi 30 Güne Çıkarıldı",
+      "ai_summary": "İşverenlerin SGK işyeri bildirgesi verme yükümlülüğü süresi 15 günden 30 güne yükseltildi. İdari para cezası riskini azaltmaktadır.",
+      "diff_summary": {
+        "has_diff": true,
+        "old_rule": "İşyeri bildirim süresi: 15 gün",
+        "new_rule": "İşyeri bildirim süresi: 30 gün",
+        "comparison_text": "Eski: 15 gün içinde bildirim -> Yeni: 30 gün içinde bildirim"
+      },
+      "effective_date": "2026-11-01",
+      "importance": 4,
+      "content_hash": "sample_hash_sgk_yonetmelik",
       "tags": [
         {
-          "slug": "enerji",
-          "name_tr": "Enerji",
+          "slug": "sgk",
+          "name_tr": "SGK & Sosyal Güvenlik",
           "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "reason": null
+        },
+        {
+          "slug": "is_hukuku",
+          "name_tr": "İş Hukuku",
+          "confidence": 0.85,
+          "reason": null
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T22:00:39.201240"
+      "created_at": "2026-11-18T02:47:20.481623"
     },
     {
-      "id": "174089db-e4a3-4547-b708-d5051920ab08",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "c - Çeşitli İlânlar",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261118-4.htm",
-      "full_text": "ÇEŞİTLİ İLANLAR\n18 Kasım 2026 ÇARŞAMBA\nResmî Gazete\nSayı : 33434\nÇEŞİTLİ İLÂNLAR\nAtatürk Üniversitesi\r\n  Rektörlüğünden:\nÇevre, Şehircilik ve İklim\r\n  Değişikliği Bakanlığı Milli Emlak Genel Müdürlüğünden:\nÇevre, Şehircilik ve İklim\r\n  Değişikliği Bakanlığı Yerel Yönetimler Genel Müdürlüğünden:\nHacettepe Üniversitesi\r\n  Rektörlüğünden:\nİstanbul Teknik Üniversitesi\r\n  Rektörlüğünden:\nMilli Savunma Bakanlığı\r\n  Askeri Fabrikalar Genel Müdürlüğünden:\nKaramanoğlu\nMehmetbey\nÜniversitesi Rektörlüğünden:\nMilli Eğitim Bakanlığı\r\n  Destek Hizmetleri Genel Müdürlüğünden:\nMilli Eğitim Bakanlığı Temel\r\n  Eğitim Genel Müdürlüğünden:\nBayburt Üniversitesi\r\n  Rektörlüğünden:\nBilecik Şeyh Edebali\r\n  Üniversitesi Rektörlüğünden:\nBurdur Mehmet Akif Ersoy\r\n  Üniversitesi Rektörlüğünden:",
+      "id": "cac8c754-2068-4c47-a364-e7389da31b6e",
+      "issue_id": "71f13fc3-ca44-4744-ab18-9f7bffb397e1",
+      "section": "İLAN BÖLÜMÜ",
+      "type": "İhale İlanı",
+      "title": "Devlet Su İşleri Genel Müdürlüğü Tarafından Yapılacak Gölet İnşaatı İhalesi",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-3.htm",
+      "full_text": "Devlet Su İşleri Genel Müdürlüğü açık ihale usulü ile gölet yapım işi yaptıracaktır.",
       "text_extraction_status": "success",
-      "ai_title": "c - Çeşitli İlânlar",
-      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
+      "ai_title": "DSİ Gölet İnşaatı Açık İhale İlanı",
+      "ai_summary": "DSİ açık ihale usulü ile gölet yapımı gerçekleştirecektir. Teklifler EKAP üzerinden verilecektir.",
       "diff_summary": null,
       "effective_date": null,
-      "importance": 1,
-      "content_hash": "f8fabb9073697e2adae1d62bfc45ba1b92da34ef3c593171f37b6ed72335b5e3",
+      "importance": 2,
+      "content_hash": "sample_hash_dsi_ihale",
       "tags": [
         {
-          "slug": "enerji",
-          "name_tr": "Enerji",
+          "slug": "ihale",
+          "name_tr": "İhale & Kamu Alımları",
           "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "reason": null
+        },
+        {
+          "slug": "insaat",
+          "name_tr": "İnşaat & Gayrimenkul",
+          "confidence": 0.9,
+          "reason": null
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T22:00:39.201347"
-    },
-    {
-      "id": "fe6b0e43-daf6-45e9-aa2c-ef5534ea9906",
-      "issue_id": "c0184e89-c3bc-4a52-bb4b-4b3129624e78",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261118-5.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-      "ai_summary": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "01dcaaa0e32d8ea1788704f028e6bb7790305f4f23305f3baedfbc1ede963e99",
-      "tags": [
-        {
-          "slug": "finans",
-          "name_tr": "Finans",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-17T22:00:39.201503"
+      "created_at": "2026-11-18T02:47:20.481636"
     }
   ],
-  "fetched_at": "2026-11-17T21:58:28.252759",
-  "cdn_generated_at": "2026-11-17T22:00:46.725818Z"
+  "fetched_at": "2026-11-18T02:47:20.481647Z",
+  "cdn_generated_at": "2026-11-18T02:47:20.481650Z"
 }
