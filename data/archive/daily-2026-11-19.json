@@ -1,162 +1,118 @@
 {
-  "id": "24bbb203-9caf-42bb-a3f6-bdbcfd81f474",
+  "id": "23dc8dcb-a13e-4c01-92f9-7bb57b9ba723",
   "date": "2026-11-19",
-  "number": 33435,
+  "number": 32700,
   "is_duplicate": false,
-  "source_url": "https://www.resmigazete.gov.tr",
-  "item_count": 7,
+  "source_url": "https://www.resmigazete.gov.tr/19.11.2026",
+  "item_count": 3,
   "items": [
     {
-      "id": "b9f75734-8a4c-4e8c-b36e-a25fc0c2adc1",
-      "issue_id": "24bbb203-9caf-42bb-a3f6-bdbcfd81f474",
+      "id": "2f35eb28-b0b4-4aa9-b4a2-799e3c4aef94",
+      "issue_id": "23dc8dcb-a13e-4c01-92f9-7bb57b9ba723",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİKLER",
-      "title": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-1.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik",
-      "ai_summary": "Pilot Lisans Yönetmeliği (SHY-1)’nde Değişiklik Yapılmasına Dair Yönetmelik yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
+      "type": "Tebliğ",
+      "title": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 52)",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-1.htm",
+      "full_text": "MADDE 1 – Katma Değer Vergisi beyanname verme süresi takip eden ayın 26 ncı gününden 28 inci gününe uzatılmıştır.\nMADDE 2 – Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
+      "text_extraction_status": "success",
+      "ai_title": "KDV Beyanname Verme Süreleri 2 Gün Uzatıldı",
+      "ai_summary": "Katma Değer Vergisi beyannamelerinin verilme süresi takip eden ayın 26'sından 28'inci gününe kadar uzatıldı. Mali müşavir ve KDV mükelleflerinin iş yükünü hafifletmektedir.",
       "diff_summary": {
         "has_diff": true,
-        "old_rule": "Önceki Yönetmelik Hükmü",
-        "new_rule": "Güncellenen Yeni Hüküm",
-        "comparison_text": "Yönetmelik/Tebliğ hükümlerinde değişiklik yapılmıştır."
+        "old_rule": "Beyanname süresi: Takip eden ayın 26. günü",
+        "new_rule": "Beyanname süresi: Takip eden ayın 28. günü",
+        "comparison_text": "Eski: Takip eden ayın 26. günü -> Yeni: Takip eden ayın 28. günü (+2 gün ilave süre)"
       },
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "305052c2cb79b89e8d33897794d2bfbb9e37134badaaca447c69c47cdbe1faa6",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-18T21:41:44.781739"
-    },
-    {
-      "id": "7c05c873-c44f-4146-a2fa-bc719ef4d99e",
-      "issue_id": "24bbb203-9caf-42bb-a3f6-bdbcfd81f474",
-      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİKLER",
-      "title": "Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-2.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi Yönetmeliği",
-      "ai_summary": "Alanya Alaaddin Keykubat Üniversitesi Yapay Zeka ve Simülasyon Uygulama ve Araştırma Merkezi Yönetmeliği yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "621ef41c1c27dada90ee3437abfacb16dbdd6897d090502df9318ce4a3d2d8c9",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-18T21:42:15.150560"
-    },
-    {
-      "id": "91f82ad8-83f9-43d0-8bdc-4331d04372cc",
-      "issue_id": "24bbb203-9caf-42bb-a3f6-bdbcfd81f474",
-      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİKLER",
-      "title": "Bursa Uludağ Üniversitesi Önlisans ve Lisans Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261119-3.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Bursa Uludağ Üniversitesi Önlisans ve Lisans Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "ai_summary": "Bursa Uludağ Üniversitesi Önlisans ve Lisans Eğitim Öğretim Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": {
-        "has_diff": true,
-        "old_rule": "Önceki Yönetmelik Hükmü",
-        "new_rule": "Güncellenen Yeni Hüküm",
-        "comparison_text": "Yönetmelik/Tebliğ hükümlerinde değişiklik yapılmıştır."
-      },
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "b1536c4b6f2c37775466bb481548db5ab175e645b4e129ba645f6f6adbcdb1b6",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-18T21:42:43.749407"
-    },
-    {
-      "id": "01d6071e-04be-4754-b506-d30a2582176a",
-      "issue_id": "24bbb203-9caf-42bb-a3f6-bdbcfd81f474",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "a - Yargı İlânları",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-2.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "a - Yargı İlânları",
-      "ai_summary": "a - Yargı İlânları yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "4dc5b388f3d576f9a44726465bd5657061946b26e326763384e7a11c5848ee14",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-18T21:43:14.205001"
-    },
-    {
-      "id": "b9fd7026-3b48-4758-8280-6a2bae3c23fb",
-      "issue_id": "24bbb203-9caf-42bb-a3f6-bdbcfd81f474",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "b - Artırma, Eksiltme ve İhale İlânları",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-3.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "b - Artırma, Eksiltme ve İhale İlânları",
-      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 1,
-      "content_hash": "34560bb0f88428a0e6171df7b58b600bddc29b9f192928ecefc388cdacdf301d",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-18T21:43:31.322490"
-    },
-    {
-      "id": "4bb40a32-aeff-47b4-88fc-e1107c451efc",
-      "issue_id": "24bbb203-9caf-42bb-a3f6-bdbcfd81f474",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "c - Çeşitli İlânlar",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-4.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "c - Çeşitli İlânlar",
-      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 1,
-      "content_hash": "f41d8935a57b6c7532ecb04d6e5fa12013485612692076e7f9d01adacb7c0e98",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-18T21:43:31.322542"
-    },
-    {
-      "id": "ae98f428-adab-456a-9e8c-2224671b3d59",
-      "issue_id": "24bbb203-9caf-42bb-a3f6-bdbcfd81f474",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261119-5.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-      "ai_summary": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "4b53bf357c0fb008dd3154b2fa42831598676c7867b5e4edad2c480a4d0d6a05",
+      "effective_date": "2026-11-19",
+      "importance": 5,
+      "content_hash": "sample_hash_kdv_52",
       "tags": [
         {
-          "slug": "finans",
-          "name_tr": "Finans",
+          "slug": "vergi",
+          "name_tr": "Vergi",
           "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "reason": null
+        },
+        {
+          "slug": "esnaf",
+          "name_tr": "Esnaf / KOBİ",
+          "confidence": 0.9,
+          "reason": null
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-18T21:43:31.322565"
+      "created_at": "2026-11-19T02:23:25.626274"
+    },
+    {
+      "id": "77306916-246f-44f2-a536-61bfc3576c89",
+      "issue_id": "23dc8dcb-a13e-4c01-92f9-7bb57b9ba723",
+      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+      "type": "Yönetmelik",
+      "title": "Sosyal Sigorta İşlemleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-2.htm",
+      "full_text": "MADDE 1 – İşyeri bildirgesi verme süresi 15 günden 30 güne çıkarılmıştır.\nMADDE 2 – Bu Yönetmelik 01.11.2026 tarihinde yürürlüğe girer.",
+      "text_extraction_status": "success",
+      "ai_title": "İşyeri Bildirgesi Verme Süresi 30 Güne Çıkarıldı",
+      "ai_summary": "İşverenlerin SGK işyeri bildirgesi verme yükümlülüğü süresi 15 günden 30 güne yükseltildi. İdari para cezası riskini azaltmaktadır.",
+      "diff_summary": {
+        "has_diff": true,
+        "old_rule": "İşyeri bildirim süresi: 15 gün",
+        "new_rule": "İşyeri bildirim süresi: 30 gün",
+        "comparison_text": "Eski: 15 gün içinde bildirim -> Yeni: 30 gün içinde bildirim"
+      },
+      "effective_date": "2026-11-01",
+      "importance": 4,
+      "content_hash": "sample_hash_sgk_yonetmelik",
+      "tags": [
+        {
+          "slug": "sgk",
+          "name_tr": "SGK & Sosyal Güvenlik",
+          "confidence": 1.0,
+          "reason": null
+        },
+        {
+          "slug": "is_hukuku",
+          "name_tr": "İş Hukuku",
+          "confidence": 0.85,
+          "reason": null
+        }
+      ],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-19T02:23:25.626296"
+    },
+    {
+      "id": "f64be6d2-fece-4c71-94d9-830a8054e3e2",
+      "issue_id": "23dc8dcb-a13e-4c01-92f9-7bb57b9ba723",
+      "section": "İLAN BÖLÜMÜ",
+      "type": "İhale İlanı",
+      "title": "Devlet Su İşleri Genel Müdürlüğü Tarafından Yapılacak Gölet İnşaatı İhalesi",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-3.htm",
+      "full_text": "Devlet Su İşleri Genel Müdürlüğü açık ihale usulü ile gölet yapım işi yaptıracaktır.",
+      "text_extraction_status": "success",
+      "ai_title": "DSİ Gölet İnşaatı Açık İhale İlanı",
+      "ai_summary": "DSİ açık ihale usulü ile gölet yapımı gerçekleştirecektir. Teklifler EKAP üzerinden verilecektir.",
+      "diff_summary": null,
+      "effective_date": null,
+      "importance": 2,
+      "content_hash": "sample_hash_dsi_ihale",
+      "tags": [
+        {
+          "slug": "ihale",
+          "name_tr": "İhale & Kamu Alımları",
+          "confidence": 1.0,
+          "reason": null
+        },
+        {
+          "slug": "insaat",
+          "name_tr": "İnşaat & Gayrimenkul",
+          "confidence": 0.9,
+          "reason": null
+        }
+      ],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-19T02:23:25.626313"
     }
   ],
-  "fetched_at": "2026-11-18T21:41:44.781599",
-  "cdn_generated_at": "2026-11-18T21:44:01.599451Z"
+  "fetched_at": "2026-11-19T02:23:25.626326Z",
+  "cdn_generated_at": "2026-11-19T02:23:25.626330Z"
 }
