@@ -1,14 +1,14 @@
 {
-  "id": "e8570bf4-c4af-4077-b261-b4680b93a53d",
-  "date": "2026-11-21",
+  "id": "63a9faf4-2774-4007-8db0-b946e849fdb8",
+  "date": "2026-11-22",
   "number": 32700,
   "is_duplicate": false,
-  "source_url": "https://www.resmigazete.gov.tr/21.11.2026",
+  "source_url": "https://www.resmigazete.gov.tr/22.11.2026",
   "item_count": 3,
   "items": [
     {
-      "id": "7273fb90-656c-4d44-8c5b-63faeecc1d0e",
-      "issue_id": "e8570bf4-c4af-4077-b261-b4680b93a53d",
+      "id": "e7e0c775-fcae-4e16-bbb6-cb7cb36a947e",
+      "issue_id": "63a9faf4-2774-4007-8db0-b946e849fdb8",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
       "type": "Tebliğ",
       "title": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 52)",
@@ -23,7 +23,7 @@
         "new_rule": "Beyanname süresi: Takip eden ayın 28. günü",
         "comparison_text": "Eski: Takip eden ayın 26. günü -> Yeni: Takip eden ayın 28. günü (+2 gün ilave süre)"
       },
-      "effective_date": "2026-11-21",
+      "effective_date": "2026-11-22",
       "importance": 5,
       "content_hash": "sample_hash_kdv_52",
       "tags": [
@@ -41,11 +41,11 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-21T20:10:42.687633"
+      "created_at": "2026-11-22T01:02:38.707286"
     },
     {
-      "id": "76e0d83d-5868-4347-9052-53b536e0ce5d",
-      "issue_id": "e8570bf4-c4af-4077-b261-b4680b93a53d",
+      "id": "74e0f95c-59bb-4c8a-8202-26672973a6e5",
+      "issue_id": "63a9faf4-2774-4007-8db0-b946e849fdb8",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
       "type": "Yönetmelik",
       "title": "Sosyal Sigorta İşlemleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
@@ -78,11 +78,11 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-21T20:10:42.687650"
+      "created_at": "2026-11-22T01:02:38.707307"
     },
     {
-      "id": "51845035-0673-4d00-a8c7-e777eb7cba5d",
-      "issue_id": "e8570bf4-c4af-4077-b261-b4680b93a53d",
+      "id": "92c3c841-1d9b-47b9-93c6-b3feb97763d8",
+      "issue_id": "63a9faf4-2774-4007-8db0-b946e849fdb8",
       "section": "İLAN BÖLÜMÜ",
       "type": "İhale İlanı",
       "title": "Devlet Su İşleri Genel Müdürlüğü Tarafından Yapılacak Gölet İnşaatı İhalesi",
@@ -110,9 +110,9 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-21T20:10:42.687662"
+      "created_at": "2026-11-22T01:02:38.707322"
     }
   ],
-  "fetched_at": "2026-11-21T20:10:42.687673Z",
-  "cdn_generated_at": "2026-11-21T20:10:42.687677Z"
+  "fetched_at": "2026-11-22T01:02:38.707335Z",
+  "cdn_generated_at": "2026-11-22T01:02:38.707339Z"
 }
