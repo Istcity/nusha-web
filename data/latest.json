@@ -1,126 +1,118 @@
 {
-  "id": "5724f2a2-33bf-4dde-885e-6ef7604ab912",
-  "date": "2026-11-22",
-  "number": 33438,
+  "id": "a1b43d1c-4d16-4777-a963-3c6e04cdaef4",
+  "date": "2026-11-23",
+  "number": 32700,
   "is_duplicate": false,
-  "source_url": "https://www.resmigazete.gov.tr",
-  "item_count": 5,
+  "source_url": "https://www.resmigazete.gov.tr/23.11.2026",
+  "item_count": 3,
   "items": [
     {
-      "id": "70aea4a9-7a27-427d-8fa2-afe45911ccee",
-      "issue_id": "5724f2a2-33bf-4dde-885e-6ef7604ab912",
+      "id": "c7f468a3-1435-4109-bcc9-f5e36b0133fe",
+      "issue_id": "a1b43d1c-4d16-4777-a963-3c6e04cdaef4",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİKLER",
-      "title": "Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261122-1.htm",
-      "full_text": "22 Kasım 2026 PAZAR\n22 Kasım 2026 PAZAR\nResmî Gazete\nSayı : 33438\nYÖNETMELİK\nAğrı İbrahim Çeçen Üniversitesinden:\nAĞRI İBRAHİM ÇEÇEN\r\n    ÜNİVERSİTESİ TEKNOLOJİ TRANSFER OFİSİ\nUYGULAMA VE ARAŞTIRMA MERKEZİ YÖNETMELİĞİNDE\nDEĞİŞİKLİK\r\n    YAPILMASINA DAİR YÖNETMELİK\nMADDE 1-\n20/12/2019\ntarihli ve\r\n    30984 sayılı Resmî Gazete’de yayımlanan Ağrı İbrahim Çeçen Üniversitesi\r\n    Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Yönetmeliğinin 8\r\n    inci maddesinin ikinci fıkrasında yer alan “en çok iki kişi müdür\r\n    yardımcısı olarak görevlendirilir” ibaresi “en çok dört kişi müdür\r\n    yardımcısı olarak görevlendirilir” şeklinde değiştirilmiştir.\nMADDE 2-\nBu Yönetmelik yayımı tarihinde yürürlüğe girer.\nMADDE 3-\nBu Yönetmelik hükümlerini Ağrı İbrahim Çeçen\r\n    Üniversitesi Rektörü yürütür.",
+      "type": "Tebliğ",
+      "title": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 52)",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-1.htm",
+      "full_text": "MADDE 1 – Katma Değer Vergisi beyanname verme süresi takip eden ayın 26 ncı gününden 28 inci gününe uzatılmıştır.\nMADDE 2 – Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
       "text_extraction_status": "success",
-      "ai_title": "Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "ai_summary": "Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi Uygulama ve Araştırma Merkezi Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
+      "ai_title": "KDV Beyanname Verme Süreleri 2 Gün Uzatıldı",
+      "ai_summary": "Katma Değer Vergisi beyannamelerinin verilme süresi takip eden ayın 26'sından 28'inci gününe kadar uzatıldı. Mali müşavir ve KDV mükelleflerinin iş yükünü hafifletmektedir.",
       "diff_summary": {
         "has_diff": true,
-        "old_rule": "Önceki Yönetmelik Hükmü",
-        "new_rule": "Güncellenen Yeni Hüküm",
-        "comparison_text": "Değişen Madde Hükmü: 20/12/2019 tarihli ve 30984 sayılı Resmî Gazete’de yayımlanan Ağrı İbrahim Çeçen Üniversitesi Teknoloji Transfer Ofisi U"
+        "old_rule": "Beyanname süresi: Takip eden ayın 26. günü",
+        "new_rule": "Beyanname süresi: Takip eden ayın 28. günü",
+        "comparison_text": "Eski: Takip eden ayın 26. günü -> Yeni: Takip eden ayın 28. günü (+2 gün ilave süre)"
       },
-      "effective_date": "2026-11-22",
-      "importance": 3,
-      "content_hash": "5b546e5c09b3e5ca1968a3bd3e6e70b00d5478663f7e138924e3183466986601",
+      "effective_date": "2026-11-23",
+      "importance": 5,
+      "content_hash": "sample_hash_kdv_52",
       "tags": [
         {
-          "slug": "enerji",
-          "name_tr": "Enerji",
+          "slug": "vergi",
+          "name_tr": "Vergi",
           "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "reason": null
+        },
+        {
+          "slug": "esnaf",
+          "name_tr": "Esnaf / KOBİ",
+          "confidence": 0.9,
+          "reason": null
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-22T20:02:01.297593"
+      "created_at": "2026-11-23T01:28:19.533668"
     },
     {
-      "id": "58e39b59-5eff-4a92-83ca-91b3a759d56a",
-      "issue_id": "5724f2a2-33bf-4dde-885e-6ef7604ab912",
+      "id": "086859d9-971d-4df2-9730-e893da181bbf",
+      "issue_id": "a1b43d1c-4d16-4777-a963-3c6e04cdaef4",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİKLER",
-      "title": "Hatay Mustafa Kemal Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261122-2.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Hatay Mustafa Kemal Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği",
-      "ai_summary": "Hatay Mustafa Kemal Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliği yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "f396072d9ed6500424773b561cee3c5ab93fcdeecef1b3d809c4bf3cee722262",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-22T20:02:02.927045"
-    },
-    {
-      "id": "db329839-3bd7-431a-bb32-4f48facdffeb",
-      "issue_id": "5724f2a2-33bf-4dde-885e-6ef7604ab912",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "a - Artırma, Eksiltme ve İhale İlânları",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-3.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "a - Artırma, Eksiltme ve İhale İlânları",
-      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 1,
-      "content_hash": "1d9e4cede933c666f07a4044217e12b17cecb5723f32b7777b3e2f188b183037",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-22T20:02:05.302345"
-    },
-    {
-      "id": "30bf5442-cabd-4b12-9c46-87f84abc9dfa",
-      "issue_id": "5724f2a2-33bf-4dde-885e-6ef7604ab912",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "b - Çeşitli İlânlar",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-4.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "b - Çeşitli İlânlar",
-      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 1,
-      "content_hash": "dfa29dc936b83bbee2a615e4997201af5c4bd42f24dca3fd39411861cf16866e",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-22T20:02:05.302420"
-    },
-    {
-      "id": "68aa7bdf-7ef6-4fa9-92dd-251f11906327",
-      "issue_id": "5724f2a2-33bf-4dde-885e-6ef7604ab912",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261122-5.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-      "ai_summary": "T.C. Merkez Bankasınca Belirlenen Devlet İç Borçlanma Senetlerinin Günlük Değerleri yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "e625cf1825fbac6f4850e7df04b39a152893c93c94c237c4ca019b1affe7e08a",
+      "type": "Yönetmelik",
+      "title": "Sosyal Sigorta İşlemleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-2.htm",
+      "full_text": "MADDE 1 – İşyeri bildirgesi verme süresi 15 günden 30 güne çıkarılmıştır.\nMADDE 2 – Bu Yönetmelik 01.11.2026 tarihinde yürürlüğe girer.",
+      "text_extraction_status": "success",
+      "ai_title": "İşyeri Bildirgesi Verme Süresi 30 Güne Çıkarıldı",
+      "ai_summary": "İşverenlerin SGK işyeri bildirgesi verme yükümlülüğü süresi 15 günden 30 güne yükseltildi. İdari para cezası riskini azaltmaktadır.",
+      "diff_summary": {
+        "has_diff": true,
+        "old_rule": "İşyeri bildirim süresi: 15 gün",
+        "new_rule": "İşyeri bildirim süresi: 30 gün",
+        "comparison_text": "Eski: 15 gün içinde bildirim -> Yeni: 30 gün içinde bildirim"
+      },
+      "effective_date": "2026-11-01",
+      "importance": 4,
+      "content_hash": "sample_hash_sgk_yonetmelik",
       "tags": [
         {
-          "slug": "finans",
-          "name_tr": "Finans",
+          "slug": "sgk",
+          "name_tr": "SGK & Sosyal Güvenlik",
           "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "reason": null
+        },
+        {
+          "slug": "is_hukuku",
+          "name_tr": "İş Hukuku",
+          "confidence": 0.85,
+          "reason": null
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-22T20:02:05.302463"
+      "created_at": "2026-11-23T01:28:19.533695"
+    },
+    {
+      "id": "5324b413-d7e2-4092-a710-47494daf5321",
+      "issue_id": "a1b43d1c-4d16-4777-a963-3c6e04cdaef4",
+      "section": "İLAN BÖLÜMÜ",
+      "type": "İhale İlanı",
+      "title": "Devlet Su İşleri Genel Müdürlüğü Tarafından Yapılacak Gölet İnşaatı İhalesi",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-3.htm",
+      "full_text": "Devlet Su İşleri Genel Müdürlüğü açık ihale usulü ile gölet yapım işi yaptıracaktır.",
+      "text_extraction_status": "success",
+      "ai_title": "DSİ Gölet İnşaatı Açık İhale İlanı",
+      "ai_summary": "DSİ açık ihale usulü ile gölet yapımı gerçekleştirecektir. Teklifler EKAP üzerinden verilecektir.",
+      "diff_summary": null,
+      "effective_date": null,
+      "importance": 2,
+      "content_hash": "sample_hash_dsi_ihale",
+      "tags": [
+        {
+          "slug": "ihale",
+          "name_tr": "İhale & Kamu Alımları",
+          "confidence": 1.0,
+          "reason": null
+        },
+        {
+          "slug": "insaat",
+          "name_tr": "İnşaat & Gayrimenkul",
+          "confidence": 0.9,
+          "reason": null
+        }
+      ],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-23T01:28:19.533716"
     }
   ],
-  "fetched_at": "2026-11-22T20:02:01.297400",
-  "cdn_generated_at": "2026-11-22T20:02:23.696085Z"
+  "fetched_at": "2026-11-23T01:28:19.533733Z",
+  "cdn_generated_at": "2026-11-23T01:28:19.533738Z"
 }
