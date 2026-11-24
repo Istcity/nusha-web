@@ -1,118 +1,220 @@
 {
-  "id": "917fee03-8811-4e43-b67a-25009ad73008",
+  "id": "9b09b557-07d8-4031-81a2-a0fae523d289",
   "date": "2026-11-24",
-  "number": 32700,
+  "number": 33440,
   "is_duplicate": false,
-  "source_url": "https://www.resmigazete.gov.tr/24.11.2026",
-  "item_count": 3,
+  "source_url": "https://www.resmigazete.gov.tr",
+  "item_count": 8,
   "items": [
     {
-      "id": "a7931c4a-0f71-4344-829d-b6d1bf7e226d",
-      "issue_id": "917fee03-8811-4e43-b67a-25009ad73008",
+      "id": "07b6b3bd-6ca0-441a-8730-734b9fb1025f",
+      "issue_id": "9b09b557-07d8-4031-81a2-a0fae523d289",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "Tebliğ",
-      "title": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 52)",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-1.htm",
-      "full_text": "MADDE 1 – Katma Değer Vergisi beyanname verme süresi takip eden ayın 26 ncı gününden 28 inci gününe uzatılmıştır.\nMADDE 2 – Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
-      "text_extraction_status": "success",
-      "ai_title": "KDV Beyanname Verme Süreleri 2 Gün Uzatıldı",
-      "ai_summary": "Katma Değer Vergisi beyannamelerinin verilme süresi takip eden ayın 26'sından 28'inci gününe kadar uzatıldı. Mali müşavir ve KDV mükelleflerinin iş yükünü hafifletmektedir.",
+      "type": "YÖNETMELİK",
+      "title": "Recep Tayyip Erdoğan Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-1.htm",
+      "full_text": null,
+      "text_extraction_status": "failed",
+      "ai_title": "Recep Tayyip Erdoğan Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "ai_summary": "Recep Tayyip Erdoğan Üniversitesi Ön Lisans ve Lisans Eğitim-Öğretim ve Sınav Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
       "diff_summary": {
         "has_diff": true,
-        "old_rule": "Beyanname süresi: Takip eden ayın 26. günü",
-        "new_rule": "Beyanname süresi: Takip eden ayın 28. günü",
-        "comparison_text": "Eski: Takip eden ayın 26. günü -> Yeni: Takip eden ayın 28. günü (+2 gün ilave süre)"
+        "old_rule": "Önceki Yönetmelik Hükmü",
+        "new_rule": "Güncellenen Yeni Hüküm",
+        "comparison_text": "Yönetmelik/Tebliğ hükümlerinde değişiklik yapılmıştır."
       },
-      "effective_date": "2026-11-24",
-      "importance": 5,
-      "content_hash": "sample_hash_kdv_52",
+      "effective_date": null,
+      "importance": 3,
+      "content_hash": "3f9af21453bf2bd86c3c7a64ca3a1b86ea301fda269da62da48aeac0c9f9be7d",
+      "tags": [],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-24T05:13:26.469404"
+    },
+    {
+      "id": "63b16075-acbc-4843-90c2-ff5bd4cfe92d",
+      "issue_id": "9b09b557-07d8-4031-81a2-a0fae523d289",
+      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+      "type": "TEBLİĞLER",
+      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598)",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-2.htm",
+      "full_text": null,
+      "text_extraction_status": "failed",
+      "ai_title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598)",
+      "ai_summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 509)’nde Değişiklik Yapılmasına Dair Tebliğ (Sıra No: 598) yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
+      "diff_summary": {
+        "has_diff": true,
+        "old_rule": "Önceki Yönetmelik Hükmü",
+        "new_rule": "Güncellenen Yeni Hüküm",
+        "comparison_text": "Yönetmelik/Tebliğ hükümlerinde değişiklik yapılmıştır."
+      },
+      "effective_date": null,
+      "importance": 3,
+      "content_hash": "801605515d442abe3e23ddf99477a3c24a47058ba059f0e6b8703337f8a1795f",
       "tags": [
         {
           "slug": "vergi",
           "name_tr": "Vergi",
           "confidence": 1.0,
-          "reason": null
-        },
-        {
-          "slug": "esnaf",
-          "name_tr": "Esnaf / KOBİ",
-          "confidence": 0.9,
-          "reason": null
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-24T02:27:20.404063"
+      "created_at": "2026-11-24T05:13:49.956843"
     },
     {
-      "id": "6ad31766-f6f0-45d9-a55e-0896333a8617",
-      "issue_id": "917fee03-8811-4e43-b67a-25009ad73008",
+      "id": "0cacad6f-2638-4692-823f-6c0e78e872ee",
+      "issue_id": "9b09b557-07d8-4031-81a2-a0fae523d289",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "Yönetmelik",
-      "title": "Sosyal Sigorta İşlemleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-2.htm",
-      "full_text": "MADDE 1 – İşyeri bildirgesi verme süresi 15 günden 30 güne çıkarılmıştır.\nMADDE 2 – Bu Yönetmelik 01.11.2026 tarihinde yürürlüğe girer.",
-      "text_extraction_status": "success",
-      "ai_title": "İşyeri Bildirgesi Verme Süresi 30 Güne Çıkarıldı",
-      "ai_summary": "İşverenlerin SGK işyeri bildirgesi verme yükümlülüğü süresi 15 günden 30 güne yükseltildi. İdari para cezası riskini azaltmaktadır.",
-      "diff_summary": {
-        "has_diff": true,
-        "old_rule": "İşyeri bildirim süresi: 15 gün",
-        "new_rule": "İşyeri bildirim süresi: 30 gün",
-        "comparison_text": "Eski: 15 gün içinde bildirim -> Yeni: 30 gün içinde bildirim"
-      },
-      "effective_date": "2026-11-01",
-      "importance": 4,
-      "content_hash": "sample_hash_sgk_yonetmelik",
-      "tags": [
-        {
-          "slug": "sgk",
-          "name_tr": "SGK & Sosyal Güvenlik",
-          "confidence": 1.0,
-          "reason": null
-        },
-        {
-          "slug": "is_hukuku",
-          "name_tr": "İş Hukuku",
-          "confidence": 0.85,
-          "reason": null
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-24T02:27:20.404087"
-    },
-    {
-      "id": "a7e90abb-a0b6-41de-8c02-6134a5808d24",
-      "issue_id": "917fee03-8811-4e43-b67a-25009ad73008",
-      "section": "İLAN BÖLÜMÜ",
-      "type": "İhale İlanı",
-      "title": "Devlet Su İşleri Genel Müdürlüğü Tarafından Yapılacak Gölet İnşaatı İhalesi",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-3.htm",
-      "full_text": "Devlet Su İşleri Genel Müdürlüğü açık ihale usulü ile gölet yapım işi yaptıracaktır.",
-      "text_extraction_status": "success",
-      "ai_title": "DSİ Gölet İnşaatı Açık İhale İlanı",
-      "ai_summary": "DSİ açık ihale usulü ile gölet yapımı gerçekleştirecektir. Teklifler EKAP üzerinden verilecektir.",
+      "type": "TEBLİĞLER",
+      "title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599)",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-3.htm",
+      "full_text": null,
+      "text_extraction_status": "failed",
+      "ai_title": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599)",
+      "ai_summary": "Vergi Usul Kanunu Genel Tebliği (Sıra No: 599) yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
       "diff_summary": null,
       "effective_date": null,
-      "importance": 2,
-      "content_hash": "sample_hash_dsi_ihale",
+      "importance": 3,
+      "content_hash": "f95614494071a75d887c3fdd21855246e8d425536b8c5acd3f3e923d2db23c08",
       "tags": [
         {
-          "slug": "ihale",
-          "name_tr": "İhale & Kamu Alımları",
+          "slug": "vergi",
+          "name_tr": "Vergi",
           "confidence": 1.0,
-          "reason": null
-        },
-        {
-          "slug": "insaat",
-          "name_tr": "İnşaat & Gayrimenkul",
-          "confidence": 0.9,
-          "reason": null
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-24T02:27:20.404105"
+      "created_at": "2026-11-24T05:14:20.300797"
+    },
+    {
+      "id": "f980499c-1385-491a-b08d-c024773b1a3b",
+      "issue_id": "9b09b557-07d8-4031-81a2-a0fae523d289",
+      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
+      "type": "TEBLİĞLER",
+      "title": "Hayvancılık Desteklemeleri Uygulama Tebliği (Tebliğ No: 2024/23)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/29)",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-4.htm",
+      "full_text": null,
+      "text_extraction_status": "failed",
+      "ai_title": "Hayvancılık Desteklemeleri Uygulama Tebliği (Tebliğ No: 2024/23)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/29)",
+      "ai_summary": "Hayvancılık Desteklemeleri Uygulama Tebliği (Tebliğ No: 2024/23)’nde Değişiklik Yapılmasına Dair Tebliğ (No: 2026/29) yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
+      "diff_summary": {
+        "has_diff": true,
+        "old_rule": "Önceki Yönetmelik Hükmü",
+        "new_rule": "Güncellenen Yeni Hüküm",
+        "comparison_text": "Yönetmelik/Tebliğ hükümlerinde değişiklik yapılmıştır."
+      },
+      "effective_date": null,
+      "importance": 3,
+      "content_hash": "ea4ae3dfd49b5897906f0f38ad306525f3ad7c1fa068763f6646eccc2d44bd56",
+      "tags": [
+        {
+          "slug": "tarim",
+          "name_tr": "Tarim",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        }
+      ],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-24T05:14:22.599897"
+    },
+    {
+      "id": "5de8093c-c732-401a-a2b2-11240cdead8d",
+      "issue_id": "9b09b557-07d8-4031-81a2-a0fae523d289",
+      "section": "YARGI BÖLÜMÜ",
+      "type": "DANIŞTAY KARARI",
+      "title": "Danıştay Dördüncü Dairesine Ait Karar",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261124-5.pdf",
+      "full_text": null,
+      "text_extraction_status": "failed",
+      "ai_title": "Danıştay Dördüncü Dairesine Ait Karar",
+      "ai_summary": "Danıştay Dördüncü Dairesine Ait Karar yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
+      "diff_summary": null,
+      "effective_date": null,
+      "importance": 3,
+      "content_hash": "77be5693d023077bf40be530074c683956de0a73eb764cf8deb4c4344a7cb8d2",
+      "tags": [
+        {
+          "slug": "enerji",
+          "name_tr": "Enerji",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        },
+        {
+          "slug": "yargi",
+          "name_tr": "Yargi",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        }
+      ],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-24T05:14:38.048458"
+    },
+    {
+      "id": "91101089-0d1a-4ba0-b6b1-ec9a3c89c2a5",
+      "issue_id": "9b09b557-07d8-4031-81a2-a0fae523d289",
+      "section": "İLÂN BÖLÜMÜ",
+      "type": "GENEL",
+      "title": "a - Artırma, Eksiltme ve İhale İlânları",
+      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-3.htm",
+      "full_text": null,
+      "text_extraction_status": "failed",
+      "ai_title": "a - Artırma, Eksiltme ve İhale İlânları",
+      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
+      "diff_summary": null,
+      "effective_date": null,
+      "importance": 1,
+      "content_hash": "3a7f043a079fd73335b55066862671c79fd289ac486be4f787b16fd0b6789257",
+      "tags": [],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-24T05:14:53.425946"
+    },
+    {
+      "id": "986eaa8e-9362-4c8a-a700-d57cfd8b34cf",
+      "issue_id": "9b09b557-07d8-4031-81a2-a0fae523d289",
+      "section": "İLÂN BÖLÜMÜ",
+      "type": "GENEL",
+      "title": "b - Çeşitli İlânlar",
+      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-4.htm",
+      "full_text": null,
+      "text_extraction_status": "failed",
+      "ai_title": "b - Çeşitli İlânlar",
+      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
+      "diff_summary": null,
+      "effective_date": null,
+      "importance": 1,
+      "content_hash": "ffc992c3f184de4861ddb91049a458229e4b482d50327bf3dfc69fd9f427c108",
+      "tags": [],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-24T05:14:53.425982"
+    },
+    {
+      "id": "c2c0eb9e-bf9a-459a-b088-57e48f761ff7",
+      "issue_id": "9b09b557-07d8-4031-81a2-a0fae523d289",
+      "section": "İLÂN BÖLÜMÜ",
+      "type": "GENEL",
+      "title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261124-5.htm",
+      "full_text": null,
+      "text_extraction_status": "failed",
+      "ai_title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
+      "ai_summary": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
+      "diff_summary": null,
+      "effective_date": null,
+      "importance": 3,
+      "content_hash": "e41f3c8660cfdd92127c6704d94223eb166ed9fb50caf7c586e184628efdd9bf",
+      "tags": [
+        {
+          "slug": "finans",
+          "name_tr": "Finans",
+          "confidence": 1.0,
+          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+        }
+      ],
+      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
+      "created_at": "2026-11-24T05:14:53.425998"
     }
   ],
-  "fetched_at": "2026-11-24T02:27:20.404120Z",
-  "cdn_generated_at": "2026-11-24T02:27:20.404124Z"
+  "fetched_at": "2026-11-24T05:13:26.469255",
+  "cdn_generated_at": "2026-11-24T05:14:54.350703Z"
 }
