@@ -1,386 +1,118 @@
 {
-  "id": "69def3f3-3536-4454-a427-3b3e51104ad1",
+  "id": "93fefcba-74d6-4eb3-bc6d-ac7a408608a6",
   "date": "2026-11-26",
-  "number": 33442,
+  "number": 32700,
   "is_duplicate": false,
-  "source_url": "https://www.resmigazete.gov.tr",
-  "item_count": 16,
+  "source_url": "https://www.resmigazete.gov.tr/26.11.2026",
+  "item_count": 3,
   "items": [
     {
-      "id": "f325abf7-aad1-4ff5-ad1a-2e8534fa8432",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
+      "id": "48a791b2-6172-4b3b-93f7-f38383247ccf",
+      "issue_id": "93fefcba-74d6-4eb3-bc6d-ac7a408608a6",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİKLER",
-      "title": "Hatay Mustafa Kemal Üniversitesi Alternatif Enerji Kaynakları ve Teknoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-1.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Hatay Mustafa Kemal Üniversitesi Alternatif Enerji Kaynakları ve Teknoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-      "ai_summary": "Hatay Mustafa Kemal Üniversitesi Alternatif Enerji Kaynakları ve Teknoloji Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "6ef1da30e437f7c94b91132369aae7848af56bf39e80d95d18dcf962d4b9b59c",
-      "tags": [],
+      "type": "Tebliğ",
+      "title": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 52)",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-1.htm",
+      "full_text": "MADDE 1 – Katma Değer Vergisi beyanname verme süresi takip eden ayın 26 ncı gününden 28 inci gününe uzatılmıştır.\nMADDE 2 – Bu Tebliğ yayımı tarihinde yürürlüğe girer.",
+      "text_extraction_status": "success",
+      "ai_title": "KDV Beyanname Verme Süreleri 2 Gün Uzatıldı",
+      "ai_summary": "Katma Değer Vergisi beyannamelerinin verilme süresi takip eden ayın 26'sından 28'inci gününe kadar uzatıldı. Mali müşavir ve KDV mükelleflerinin iş yükünü hafifletmektedir.",
+      "diff_summary": {
+        "has_diff": true,
+        "old_rule": "Beyanname süresi: Takip eden ayın 26. günü",
+        "new_rule": "Beyanname süresi: Takip eden ayın 28. günü",
+        "comparison_text": "Eski: Takip eden ayın 26. günü -> Yeni: Takip eden ayın 28. günü (+2 gün ilave süre)"
+      },
+      "effective_date": "2026-11-26",
+      "importance": 5,
+      "content_hash": "sample_hash_kdv_52",
+      "tags": [
+        {
+          "slug": "vergi",
+          "name_tr": "Vergi",
+          "confidence": 1.0,
+          "reason": null
+        },
+        {
+          "slug": "esnaf",
+          "name_tr": "Esnaf / KOBİ",
+          "confidence": 0.9,
+          "reason": null
+        }
+      ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:07:01.685749"
+      "created_at": "2026-11-26T14:33:59.866375"
     },
     {
-      "id": "4b75e7ff-aa4b-4396-bed2-28ab6bfa3310",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
+      "id": "035b2d37-d925-4a40-90f6-0d18247cf093",
+      "issue_id": "93fefcba-74d6-4eb3-bc6d-ac7a408608a6",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİKLER",
-      "title": "Mustafa Kemal Üniversitesi Tekstil Sanatları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-2.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Mustafa Kemal Üniversitesi Tekstil Sanatları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-      "ai_summary": "Mustafa Kemal Üniversitesi Tekstil Sanatları Uygulama ve Araştırma Merkezi Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "204fcb320fbef68893fcb4198ce4a337c547a255522add666308379dadb263d2",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:07:05.764826"
-    },
-    {
-      "id": "1c7622da-fb1a-4feb-b25b-51f800928891",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "YÖNETMELİKLER",
-      "title": "Mustafa Kemal Üniversitesi Yabancı Diller Eğitim-Öğretimi Araştırma ve Uygulama Merkezi (YADİM) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-3.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Mustafa Kemal Üniversitesi Yabancı Diller Eğitim-Öğretimi Araştırma ve Uygulama Merkezi (YADİM) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik",
-      "ai_summary": "Mustafa Kemal Üniversitesi Yabancı Diller Eğitim-Öğretimi Araştırma ve Uygulama Merkezi (YADİM) Yönetmeliğinin Yürürlükten Kaldırılmasına Dair Yönetmelik yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "d5b066712bd00285f45e4922bc94642639127deb366b37728dc03a89ce17b017",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:07:21.810035"
-    },
-    {
-      "id": "1ead9d91-6be3-48d3-9b65-f1c0a7374b5f",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
-      "type": "TEBLİĞ",
-      "title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/33)",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-4.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/33)",
-      "ai_summary": "İthalatta Haksız Rekabetin Önlenmesine İlişkin Tebliğ (No: 2026/33) yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "3992a13d4d1697f2ba38fe2041bbb0397948bfdc1b80c6e76223e5ca504d6015",
+      "type": "Yönetmelik",
+      "title": "Sosyal Sigorta İşlemleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-2.htm",
+      "full_text": "MADDE 1 – İşyeri bildirgesi verme süresi 15 günden 30 güne çıkarılmıştır.\nMADDE 2 – Bu Yönetmelik 01.11.2026 tarihinde yürürlüğe girer.",
+      "text_extraction_status": "success",
+      "ai_title": "İşyeri Bildirgesi Verme Süresi 30 Güne Çıkarıldı",
+      "ai_summary": "İşverenlerin SGK işyeri bildirgesi verme yükümlülüğü süresi 15 günden 30 güne yükseltildi. İdari para cezası riskini azaltmaktadır.",
+      "diff_summary": {
+        "has_diff": true,
+        "old_rule": "İşyeri bildirim süresi: 15 gün",
+        "new_rule": "İşyeri bildirim süresi: 30 gün",
+        "comparison_text": "Eski: 15 gün içinde bildirim -> Yeni: 30 gün içinde bildirim"
+      },
+      "effective_date": "2026-11-01",
+      "importance": 4,
+      "content_hash": "sample_hash_sgk_yonetmelik",
       "tags": [
         {
-          "slug": "gumruk",
-          "name_tr": "Gumruk",
+          "slug": "sgk",
+          "name_tr": "SGK & Sosyal Güvenlik",
           "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "reason": null
+        },
+        {
+          "slug": "is_hukuku",
+          "name_tr": "İş Hukuku",
+          "confidence": 0.85,
+          "reason": null
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:07:37.147754"
+      "created_at": "2026-11-26T14:33:59.866399"
     },
     {
-      "id": "df5f870b-6f9e-436d-8176-e50b1b8c124f",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YARGI BÖLÜMÜ",
-      "type": "ANAYASA MAHKEMESİ KARARLARI",
-      "title": "Anayasa Mahkemesinin 25/6/2026 Tarihli ve E: 2025/211, K: 2026/146 Sayılı Kararı",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-5.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Anayasa Mahkemesinin 25/6/2026 Tarihli ve E: 2025/211, K: 2026/146 Sayılı Kararı",
-      "ai_summary": "Anayasa Mahkemesinin 25/6/2026 Tarihli ve E: 2025/211, K: 2026/146 Sayılı Kararı yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
+      "id": "f735d47d-5a76-4752-9ae9-68465f249659",
+      "issue_id": "93fefcba-74d6-4eb3-bc6d-ac7a408608a6",
+      "section": "İLAN BÖLÜMÜ",
+      "type": "İhale İlanı",
+      "title": "Devlet Su İşleri Genel Müdürlüğü Tarafından Yapılacak Gölet İnşaatı İhalesi",
+      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261020-3.htm",
+      "full_text": "Devlet Su İşleri Genel Müdürlüğü açık ihale usulü ile gölet yapım işi yaptıracaktır.",
+      "text_extraction_status": "success",
+      "ai_title": "DSİ Gölet İnşaatı Açık İhale İlanı",
+      "ai_summary": "DSİ açık ihale usulü ile gölet yapımı gerçekleştirecektir. Teklifler EKAP üzerinden verilecektir.",
       "diff_summary": null,
       "effective_date": null,
-      "importance": 3,
-      "content_hash": "2f807dc1956dd25606c1605a42354b0173990f0cc1917305841c681c278eb97f",
+      "importance": 2,
+      "content_hash": "sample_hash_dsi_ihale",
       "tags": [
         {
-          "slug": "yargi",
-          "name_tr": "Yargi",
+          "slug": "ihale",
+          "name_tr": "İhale & Kamu Alımları",
           "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
+          "reason": null
+        },
+        {
+          "slug": "insaat",
+          "name_tr": "İnşaat & Gayrimenkul",
+          "confidence": 0.9,
+          "reason": null
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:07:40.050857"
-    },
-    {
-      "id": "5b46328c-f177-4b1e-be59-5c074771f6c5",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YARGI BÖLÜMÜ",
-      "type": "ANAYASA MAHKEMESİ KARARLARI",
-      "title": "Anayasa Mahkemesinin 8/9/2026 Tarihli ve E: 2026/129, K: 2026/191 Sayılı Kararı",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-6.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Anayasa Mahkemesinin 8/9/2026 Tarihli ve E: 2026/129, K: 2026/191 Sayılı Kararı",
-      "ai_summary": "Anayasa Mahkemesinin 8/9/2026 Tarihli ve E: 2026/129, K: 2026/191 Sayılı Kararı yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "8b4c2120fa78b7329db0e4f624f1d6dda09687ef53179c9f10a156f9e6fbe939",
-      "tags": [
-        {
-          "slug": "yargi",
-          "name_tr": "Yargi",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:07:44.928335"
-    },
-    {
-      "id": "d05d0141-1377-460d-aefc-425524c81ee4",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YARGI BÖLÜMÜ",
-      "type": "ANAYASA MAHKEMESİ KARARLARI",
-      "title": "Anayasa Mahkemesinin 2/4/2026 Tarihli ve 2022/101643 Başvuru Numaralı Kararı",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-7.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Anayasa Mahkemesinin 2/4/2026 Tarihli ve 2022/101643 Başvuru Numaralı Kararı",
-      "ai_summary": "Anayasa Mahkemesinin 2/4/2026 Tarihli ve 2022/101643 Başvuru Numaralı Kararı yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "8310304d595d390157da29aef10958716bd39f84d706dc56ad1939e69ef62547",
-      "tags": [
-        {
-          "slug": "yargi",
-          "name_tr": "Yargi",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:07:49.233267"
-    },
-    {
-      "id": "974fae6b-296b-4eaa-b872-1a0377a428ce",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YARGI BÖLÜMÜ",
-      "type": "ANAYASA MAHKEMESİ KARARLARI",
-      "title": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/63186 Başvuru Numaralı Kararı",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-8.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/63186 Başvuru Numaralı Kararı",
-      "ai_summary": "Anayasa Mahkemesinin 30/4/2026 Tarihli ve 2021/63186 Başvuru Numaralı Kararı yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "306810ebef345372f4aff32cf65f65a155cd53e2984af2c3f79b0386592e8978",
-      "tags": [
-        {
-          "slug": "yargi",
-          "name_tr": "Yargi",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:07:50.119666"
-    },
-    {
-      "id": "2355b05f-a81f-43a0-a207-99cfc5d7f650",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YARGI BÖLÜMÜ",
-      "type": "ANAYASA MAHKEMESİ KARARLARI",
-      "title": "Anayasa Mahkemesinin 12/5/2026 Tarihli ve 2024/32475 Başvuru Numaralı Kararı",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-9.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Anayasa Mahkemesinin 12/5/2026 Tarihli ve 2024/32475 Başvuru Numaralı Kararı",
-      "ai_summary": "Anayasa Mahkemesinin 12/5/2026 Tarihli ve 2024/32475 Başvuru Numaralı Kararı yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "20aa008dc643d61f1396de28234029728ee490d53a4ec30e170e28adf072be10",
-      "tags": [
-        {
-          "slug": "yargi",
-          "name_tr": "Yargi",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:08:20.301797"
-    },
-    {
-      "id": "be6a5919-230f-4f88-91bd-3d3d816a9cbe",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YARGI BÖLÜMÜ",
-      "type": "ANAYASA MAHKEMESİ KARARLARI",
-      "title": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2020/28239 Başvuru Numaralı Kararı",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-10.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2020/28239 Başvuru Numaralı Kararı",
-      "ai_summary": "Anayasa Mahkemesinin 18/5/2026 Tarihli ve 2020/28239 Başvuru Numaralı Kararı yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "03a41cd072cc65acecb2b4ab9fd82ba274eb502ce88ded6e475cf192f57d3db1",
-      "tags": [
-        {
-          "slug": "yargi",
-          "name_tr": "Yargi",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:08:35.609272"
-    },
-    {
-      "id": "2e688cf0-dde1-454d-b63c-f16ff6ca123c",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YARGI BÖLÜMÜ",
-      "type": "ANAYASA MAHKEMESİ KARARLARI",
-      "title": "Anayasa Mahkemesinin 30/6/2026 Tarihli ve 2021/22990 Başvuru Numaralı Kararı",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-11.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Anayasa Mahkemesinin 30/6/2026 Tarihli ve 2021/22990 Başvuru Numaralı Kararı",
-      "ai_summary": "Anayasa Mahkemesinin 30/6/2026 Tarihli ve 2021/22990 Başvuru Numaralı Kararı yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "af35d8213201d759ab5264099907d634d18fdd6415f90f18e03487f5b5838d7a",
-      "tags": [
-        {
-          "slug": "yargi",
-          "name_tr": "Yargi",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:08:51.430148"
-    },
-    {
-      "id": "3ab4d4a7-7ecf-42fc-ac54-c001dbe2c869",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "YARGI BÖLÜMÜ",
-      "type": "YARGITAY KARARLARI",
-      "title": "Yargıtay 2 ve 3. Hukuk Dairelerine Ait Kararlar",
-      "source_url": "https://www.resmigazete.gov.tr/eskiler/2026/11/20261126-12.pdf",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "Yargıtay 2 ve 3. Hukuk Dairelerine Ait Kararlar",
-      "ai_summary": "Yargıtay 2 ve 3. Hukuk Dairelerine Ait Kararlar yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "c83ba49ab79030cb8efab5f2949e280e5215287fdb2646d105a417b3695c2eff",
-      "tags": [
-        {
-          "slug": "yargi",
-          "name_tr": "Yargi",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:09:21.729643"
-    },
-    {
-      "id": "1d93394e-3556-47f6-a081-2822d9332efa",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "a - Yargı İlânları",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-2.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "a - Yargı İlânları",
-      "ai_summary": "a - Yargı İlânları yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "5a85df6f2890925d4c2df5ae16e562caaf7864add4e4eb1ec1b8fd41e8379e7b",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:09:41.655095"
-    },
-    {
-      "id": "593a6eef-a65f-4c65-a00c-0ff1f3538bfc",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "b - Artırma, Eksiltme ve İhale İlânları",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-3.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "b - Artırma, Eksiltme ve İhale İlânları",
-      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 1,
-      "content_hash": "9b38d4a55c47ee93a82f3fe273f67b3c953219cf4921c60ed85a39dbcb4ae98c",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:09:57.430587"
-    },
-    {
-      "id": "870f359c-cf28-4880-b8e1-90fcb2374ec0",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "c - Çeşitli İlânlar",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-4.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "c - Çeşitli İlânlar",
-      "ai_summary": "İLÂN BÖLÜMÜ kapsamında yayımlanan resmî bilgilendirme ve ilan metnidir.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 1,
-      "content_hash": "65ee5742d31d7bb6756c4744e4c0a4a949d343239492e951b5ed3170712ec1f7",
-      "tags": [],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:09:57.430636"
-    },
-    {
-      "id": "5e6dc680-2af6-4671-b7d5-60a031d30891",
-      "issue_id": "69def3f3-3536-4454-a427-3b3e51104ad1",
-      "section": "İLÂN BÖLÜMÜ",
-      "type": "GENEL",
-      "title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-      "source_url": "https://www.resmigazete.gov.tr/ilanlar/eskiilanlar/2026/11/20261126-5.htm",
-      "full_text": null,
-      "text_extraction_status": "failed",
-      "ai_title": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri",
-      "ai_summary": "T.C. Merkez Bankasınca Belirlenen Döviz Kurları ve Devlet İç Borçlanma Senetlerinin Günlük Değerleri yürürlüğe girmiş olup ilgili sektör ve meslek mensuplarının dikkatine sunulmuştur.",
-      "diff_summary": null,
-      "effective_date": null,
-      "importance": 3,
-      "content_hash": "69a28e2a980a53b8c8be832c3b0a06b738c9d9e29f0667cd1c317d573fb602f7",
-      "tags": [
-        {
-          "slug": "finans",
-          "name_tr": "Finans",
-          "confidence": 1.0,
-          "reason": "Anahtar kelime ve mevzuat sınıflandırma kuralı"
-        }
-      ],
-      "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-26T13:09:57.430661"
+      "created_at": "2026-11-26T14:33:59.866416"
     }
   ],
-  "fetched_at": "2026-11-26T13:07:01.685560",
-  "cdn_generated_at": "2026-11-26T13:10:14.087826Z"
+  "fetched_at": "2026-11-26T14:33:59.866431Z",
+  "cdn_generated_at": "2026-11-26T14:33:59.866436Z"
 }
