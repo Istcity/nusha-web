@@ -1,5 +1,5 @@
 {
-  "id": "26d65767-329a-4212-a1bd-b1e91c2ee9e1",
+  "id": "2a528b07-89e3-4104-b46d-46ce54272480",
   "date": "2026-11-27",
   "number": 32700,
   "is_duplicate": false,
@@ -7,8 +7,8 @@
   "item_count": 3,
   "items": [
     {
-      "id": "5110a326-c21d-4250-b53d-786b6be0d6a8",
-      "issue_id": "26d65767-329a-4212-a1bd-b1e91c2ee9e1",
+      "id": "71da0090-7bcd-409d-997e-90a0dc97a485",
+      "issue_id": "2a528b07-89e3-4104-b46d-46ce54272480",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
       "type": "Tebliğ",
       "title": "Katma Değer Vergisi Genel Uygulama Tebliğinde Değişiklik Yapılmasına Dair Tebliğ (Seri No: 52)",
@@ -41,11 +41,11 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-27T14:28:11.063443"
+      "created_at": "2026-11-27T22:50:20.368522"
     },
     {
-      "id": "39f51443-c887-431f-8178-d0ba9f1feb9b",
-      "issue_id": "26d65767-329a-4212-a1bd-b1e91c2ee9e1",
+      "id": "eff6ddf4-0eb0-4694-bc1a-a19123c20233",
+      "issue_id": "2a528b07-89e3-4104-b46d-46ce54272480",
       "section": "YÜRÜTME VE İDARE BÖLÜMÜ",
       "type": "Yönetmelik",
       "title": "Sosyal Sigorta İşlemleri Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
@@ -78,11 +78,11 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-27T14:28:11.063470"
+      "created_at": "2026-11-27T22:50:20.368555"
     },
     {
-      "id": "85c2037f-fd19-44ff-8272-5beeaeb07d53",
-      "issue_id": "26d65767-329a-4212-a1bd-b1e91c2ee9e1",
+      "id": "a6357def-636b-4867-b451-49f38afaba2e",
+      "issue_id": "2a528b07-89e3-4104-b46d-46ce54272480",
       "section": "İLAN BÖLÜMÜ",
       "type": "İhale İlanı",
       "title": "Devlet Su İşleri Genel Müdürlüğü Tarafından Yapılacak Gölet İnşaatı İhalesi",
@@ -110,9 +110,9 @@
         }
       ],
       "disclaimer": "Resmi nitelik taşımaz, özet bilgilendirme amaçlıdır. Hukuki işlemlerde orijinal metin esastır.",
-      "created_at": "2026-11-27T14:28:11.063485"
+      "created_at": "2026-11-27T22:50:20.368578"
     }
   ],
-  "fetched_at": "2026-11-27T14:28:11.063498Z",
-  "cdn_generated_at": "2026-11-27T14:28:11.063502Z"
+  "fetched_at": "2026-11-27T22:50:20.368597Z",
+  "cdn_generated_at": "2026-11-27T22:50:20.368602Z"
 }
